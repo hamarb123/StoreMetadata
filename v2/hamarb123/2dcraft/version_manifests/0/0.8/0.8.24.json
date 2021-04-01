@@ -19,8 +19,7 @@
 		{
 			os_and_architectures:
 			[
-				"windows-x86",
-				"windows-x64",
+				"windows-any",
 			],
 			startup_file: "2DCraft.exe",
 			startup_mode: "exe",
