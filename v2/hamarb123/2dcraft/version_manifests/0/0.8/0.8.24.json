@@ -1,0 +1,43 @@
+{
+	api_version: "2",
+	id: 102,
+	version_version: 0,
+	display_name: "0.8.24",
+	index: 102,
+	release_type: 0,
+	game_type: 2,
+	snapshot_type: 0,
+	snapshot_data: null,
+	changelog:
+	{
+		//todo
+		type: "",
+		text: "test changelog."
+	},
+	os_arch_specifics:
+	[
+		{
+			os_and_architectures:
+			[
+				"windows-x86",
+				"windows-x64",
+			],
+			startup_file: "2DCraft.exe",
+			startup_mode: "exe",
+			os_version_major_minimum: 7,
+			os_version_minor_minimum: 7601,
+			required_frameworks:
+			[
+				"net461",
+			],
+		},
+	],
+	files:
+	[
+		{
+			link: 'dropbox("69whbgxkjs2scfz/0.8.24.zip")',
+			unzip_subpath: "/",
+			destination: "/",
+		},
+	],
+}

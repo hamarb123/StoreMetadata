@@ -1,0 +1,46 @@
+{
+	api_version: "2",
+	id: "2dcraft",
+	display_name: "2DCraft: Desktop Edition",
+	icon_link: 'dropbox("oa8huwh6q2e78n6/2DCraftLogo.png")',
+	website: "https://hamarb123.github.io/2dcraft.html",
+	description: "", //todo
+	developer_id: "hamarb123",
+	ms_store_info:
+	{
+		api_version: "2",
+		link: "https://www.microsoft.com/en-us/p/2dcraft/9nblggh43gp7",
+		version_major_minimum: 10,
+		version_minor_minimum: 14393,
+	},
+	release_types:
+	[
+		"Alpha",
+		"Beta",
+		"Release",
+	],
+	game_types:
+	[
+		"XNA",
+		"FVBNET",
+		"VBNET",
+		"VBNET2",
+		"CSNET",
+	],
+	snapshot_types:
+	[
+		"Release",
+		"Dev Build",
+		"Snapshot",
+		"Pre Release",
+	],
+	app_type: "game",
+	default_release_type: null,
+	default_game_type: 2,
+	default_snapshot_type: 0,
+	version_manifests:
+	[
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests/0/0.8/0.8.24.json")',
+		//todo
+	],
+}

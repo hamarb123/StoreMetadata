@@ -1,0 +1,9 @@
+{
+	api_version: "2",
+	id: "hamarb123",
+	display_name: "hamarb123",
+	icon_link: 'dropbox("zrhe2l9cf3ry06a/logo512.png")',
+	email: "hamarb123.help@gmail.com",
+	website: "https://hamarb123.github.io/",
+	description: "", //todo
+}
