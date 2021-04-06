@@ -9,7 +9,7 @@
 	ms_store_info:
 	{
 		api_version: "2",
-		url: "https://www.microsoft.com/en-us/p/2dcraft/9nblggh43gp7",
+		page: "9nblggh43gp7",
 		version_major_minimum: 10,
 		version_minor_minimum: 14393,
 	},
