@@ -1,5 +1,7 @@
 {
 	api_version: "2",
+	discord_url: "https://hamarb123.github.io/discord.html",
+	email_url: "mailto:hamarb123.help@gmail.com?subject=Email regarding \"hamarb123 Store\"",
 	developer_manifests:
 	[
 		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/developer_manifest.json")',
