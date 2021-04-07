@@ -6,13 +6,6 @@
 	website: "https://hamarb123.github.io/2dcraft.html",
 	description: "", //todo
 	developer_id: "hamarb123",
-	ms_store_info:
-	{
-		api_version: "2",
-		page: "9nblggh43gp7",
-		version_major_minimum: 10,
-		version_minor_minimum: 14393,
-	},
 	release_types:
 	[
 		"Alpha",
@@ -43,4 +36,27 @@
 		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests/0/0.8/0.8.24.json")',
 		//todo
 	],
+	app_buttons:
+	{
+		api_version: "2",
+		buttons:
+		[
+			{
+				button_type: "get",
+			},
+			{
+				button_type: "ms_store",
+				ms_store_info:
+				{
+					api_version: "2",
+					page: "9nblggh43gp7",
+					version_major_minimum: 10,
+					version_minor_minimum: 14393,
+				},
+			},
+			{
+				button_type: "dev_email",
+			},
+		],
+	},
 }
