@@ -46,13 +46,22 @@
 			},
 			{
 				button_type: "ms_store",
-				ms_store_info:
-				{
-					api_version: "2",
-					page: "9nblggh43gp7",
-					version_major_minimum: 10,
-					version_minor_minimum: 14393,
-				},
+				page: "9nblggh43gp7",
+				conditions:
+				[
+					{
+						condition_type: "oses",
+						oses:
+						[
+							"windows",
+						],
+					},
+					{
+						condition_type: "os_minimum_version",
+						os_version_major_minimum: 10,
+						os_version_minor_minimum: 14393,
+					},
+				],
 			},
 			{
 				button_type: "dev_email",
