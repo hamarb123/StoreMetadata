@@ -7,6 +7,7 @@
 	application_manifests:
 	[
 		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/application_manifest.json")',
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/store/application_manifest.json")',
 		//todo
 	],
 	discord_url: "https://hamarb123.github.io/discord.html",
