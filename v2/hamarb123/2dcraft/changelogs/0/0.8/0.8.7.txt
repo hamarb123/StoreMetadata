@@ -1,0 +1,4 @@
+Version 0.8.7:
+	Actually works.
+	Faster!
+	Fixed more bugs.

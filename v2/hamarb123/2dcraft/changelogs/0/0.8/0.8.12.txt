@@ -1,0 +1,20 @@
+Version 0.8.12:
+	Change the newsletter to changelog
+	Add TAB indexing to Skin Selection Menu
+	Made webs appear behind the player
+	Made doors appear behind the player
+	Made glass walked through
+	Made glass appear behind the player
+	Made the player not be able to jump while in the inventory
+	Remove excess snow layer textures
+	Make Snowy grass use snow texture
+	Add Screenshot hotkey to Help Menu
+	Made ferns spawn less
+	Crouching slightly lowers the player
+	The player can face left and right
+	Lighter can now light a furnace
+	Fix some text display bugs
+	Saplings now don't grow while game is paused
+	Saplings take longer to grow
+	Saplings are more common
+	You can no longer sprint while crouching

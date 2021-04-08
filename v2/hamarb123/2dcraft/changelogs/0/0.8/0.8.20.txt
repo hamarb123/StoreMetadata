@@ -1,0 +1,7 @@
+Version 0.8.20:
+	Mod maker works properly again
+	The game should work on all screen sizes and resolutions now that meet the requirements
+	Worlds should generate properly now
+	Mod files can be opened easier
+	Random crash fixes
+	Random bug fixes

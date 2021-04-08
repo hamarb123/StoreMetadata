@@ -1,0 +1,3 @@
+Version 1.0.15 (Build 451):
+	Future compatibility for the new installer
+	New Installer

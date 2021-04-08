@@ -1,0 +1,5 @@
+Version 1.0.1 (Build 250):
+	Faster load times with improved caching.
+	Added changelog for the hamarb123 Store.
+	Made 'Send an email' work properly.
+	Clearing data now works better.

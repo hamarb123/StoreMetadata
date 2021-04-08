@@ -1,0 +1,2 @@
+Version 1.0.11 (Build 430):
+	Added support for Windows Vista SP2+ (in theory)

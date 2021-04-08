@@ -1,0 +1,2 @@
+Version 0.6.4 (MS Store):
+	Made the submitted .appx file about 11x smaller.

@@ -1,0 +1,6 @@
+Version 0.8.14:
+	Add rest of start menu items to be compatible with windows 7
+	Refactored modding heavily
+	Made game heaps faster
+	Made grass die that has dirt or other things on top of it
+	Add trapdoor block

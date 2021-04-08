@@ -1,0 +1,2 @@
+Version 1.0.9 (Build 401):
+	Fixed the crash that happened every time the app was opened.

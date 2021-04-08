@@ -1,0 +1,4 @@
+Version 0.8.17:
+	Made the game run slightly faster
+	Made the sun and moons location change as you go up and down
+	Made the sky change color from top to bottom and when you go up and down

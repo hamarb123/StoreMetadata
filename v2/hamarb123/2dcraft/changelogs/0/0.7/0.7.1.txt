@@ -1,0 +1,6 @@
+Version 0.7.1: Bug Fix And FPS Update!
+	Fast graphics, like seriously, you will need OpenGL 2.1 support now though!
+	Updated the credits.
+	F2=Screenshot, which can be found in %appdata%\hamarb123 FunBandit29\2DCraft\Screenshots
+	Minor changes of the forms.
+	Triangles now look triangular!

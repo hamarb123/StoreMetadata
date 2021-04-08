@@ -1,0 +1,10 @@
+Version 0.8.21:
+	Tree fixes
+	Leaf blocks can be placed again
+	Escape key works in more forms
+	Closing the Mod maker makes it go back to the main game
+	The game now opens quicker
+	Bug reports can be much longer now, and they also require a reply-to email address
+	Add bedrock
+	Other changes
+	Fixed some crashes

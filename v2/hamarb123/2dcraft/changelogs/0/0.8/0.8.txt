@@ -1,0 +1,9 @@
+Version 0.8 (Gravity Update):
+	Added Gravity (toggle is F key)
+	Modded blocks have many more options
+	Internal changes to make the game run smoother
+	Fixed "Create World" Bug
+	Made Obsidian unexplodable
+	Introduced more bugs (probably)
+	Added Trial Version To website
+	Made it 'harder' to spam bug reports

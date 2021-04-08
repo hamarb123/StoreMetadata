@@ -1,0 +1,3 @@
+Version 0.8.5:
+	Fixed the "Mod2DCraft.dll is missing" error of the Mod Maker!
+	Added privacy policy inside the game!

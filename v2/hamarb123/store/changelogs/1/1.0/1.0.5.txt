@@ -1,0 +1,2 @@
+Version 1.0.5 (Build 285):
+	Added forgotten Windows Version Compatibility check.

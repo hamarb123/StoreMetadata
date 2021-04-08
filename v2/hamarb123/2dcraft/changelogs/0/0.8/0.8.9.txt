@@ -1,0 +1,4 @@
+Version 0.8.9:
+	Actually works...again...hopefully.
+	Fixed Icon Exception.
+	Changed world location to hopefully fix many errors.

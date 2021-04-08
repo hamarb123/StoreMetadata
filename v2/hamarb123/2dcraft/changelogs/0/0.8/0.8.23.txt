@@ -1,0 +1,15 @@
+Version 0.8.23:
+	Multiple random crash fixes
+	Added a discord button
+	Removed the channel button (you can still access it with the youtube button)
+	Made TNT explode properly
+	Changed TNT's radius to 2.5
+	Added small TNT (radius of 1)
+	Added large TNT (radius of 4)
+	Fixed some issues on weird screen sizes
+	Internal changes
+	Escape button should work on all applicable forms now
+	Fixed notifications on the MS Store version
+	Removed support for windows 10.0.14393.0 on the MS Store version
+	Made grass spread slowly
+	Updated all links to the new website

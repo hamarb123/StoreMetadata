@@ -1,0 +1,12 @@
+Version 0.8.24:
+	Fixed double placing
+	Made grass spread at the right speed
+	Snow now falls
+	Made the credits emoji fit properly (Windows 10 redstone 5 update+)
+	Unstretched a few images
+	Reduced lag
+	Made the game faster
+	TNT explodes slightly faster
+	Option to reduce block updates
+	Ghost blocks are fixed
+	Flying down is faster

@@ -1,0 +1,4 @@
+Version 1.0.8 (Build 400):
+	Added the discord button.
+	Added the new logo.
+	Added the EULA agreement.

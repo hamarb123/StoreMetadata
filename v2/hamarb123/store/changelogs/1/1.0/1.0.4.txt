@@ -1,0 +1,5 @@
+Version 1.0.4 (Build 284):
+	Fixed data saving in some cases.
+	Added extensive info option.
+	Added some checks for compatibility.
+	Changes in store changelog page.

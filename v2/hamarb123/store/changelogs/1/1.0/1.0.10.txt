@@ -1,0 +1,4 @@
+Version 1.0.10 (Build 429):
+	Made the app icons less pixelated
+	Made the app not fuzzy on computers with a DPI that isn't 96
+	Made it load slightly faster

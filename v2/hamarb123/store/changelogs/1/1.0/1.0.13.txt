@@ -1,0 +1,3 @@
+Version 1.0.13 (Build 440):
+	New Installer
+	Useful info on error

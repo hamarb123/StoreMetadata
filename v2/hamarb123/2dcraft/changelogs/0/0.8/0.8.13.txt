@@ -1,0 +1,24 @@
+Version 0.8.13:
+	Fixed many errors.
+	A few player height changes
+	Flying puts you in front of all blocks
+	Fix the level option
+	Add Screenshots menu
+	Doors now need blocks underneath
+	Blocks used to replace leaves
+	Add Fertility options to Mod Maker
+	Re-add middle clicking
+	Make flowers and snow can be a combined block
+	Add duplicate World button
+	Moved Make a mod button to start menu
+	Rearrange start menu
+	Youtube video menu
+	Ice changes grass to icy grass texture
+	A new biome
+	Change W and S to SPACE and crouch in flight mode
+	All door items became right handled
+	Change sapling formula
+	Screenshot form can crash
+	Remove console completely (it didn't work anyway)
+	Fix many indexes
+	Final block removing error (Until I add it again on accident)

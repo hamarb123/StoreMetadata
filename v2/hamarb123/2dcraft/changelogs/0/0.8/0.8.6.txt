@@ -1,0 +1,3 @@
+Version 0.8.6:
+	Doesn't use FBO.
+	Faster!

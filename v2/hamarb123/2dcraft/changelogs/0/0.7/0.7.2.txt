@@ -1,0 +1,2 @@
+Version 0.7.2: Bug And FPS Fixes!
+	Made FPS fast again in a generated world by fixing a rectangle test!

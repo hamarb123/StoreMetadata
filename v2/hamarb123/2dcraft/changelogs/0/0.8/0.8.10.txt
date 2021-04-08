@@ -1,0 +1,8 @@
+Version 0.8.10:
+	Removed make mod from inside a mod.
+	Fixed many bugs.
+	Fixed UI in testing mode.
+	Fixed Export option.
+	Fixed Report Bug option.
+	Fixed make a custom level option.
+	Fixed some 'UWP dll file is missing' error on testing startup.

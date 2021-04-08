@@ -2,3 +2,4 @@
 * text=auto eol=lf
 *.json linguist-language=JSON5
 *.code-workspace linguist-language=JSON
+*.ps1 eol=crlf

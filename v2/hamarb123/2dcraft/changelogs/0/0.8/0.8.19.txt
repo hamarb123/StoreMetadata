@@ -1,0 +1,8 @@
+Version 0.8.19:
+	Fixed the generated tree bug
+	Made the game run faster
+	Made trapdoors work better
+	Fixed resizing of the game window
+	Changed sky color gradient again
+	More world options (size and biome size)
+	Added a button to the youtube page

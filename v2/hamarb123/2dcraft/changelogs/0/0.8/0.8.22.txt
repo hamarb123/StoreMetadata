@@ -1,0 +1,5 @@
+Version 0.8.22:
+	Slight aesthetic changes
+	Random crash fixes
+	Less notifications (MS Store Version)
+	One bug fix

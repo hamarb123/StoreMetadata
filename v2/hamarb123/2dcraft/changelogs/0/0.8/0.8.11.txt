@@ -1,0 +1,20 @@
+Version 0.8.11:
+	Various Bug Fixes
+	(Hopefully fixed) When placing some blocks glitch, causing some to unplace
+	Clicking whilst in a ratio that is not 16:9 can click in an incorrect spot
+	FPS could have been incorrect because of slow world updates
+	Generated worlds could have been super slow on loading up after creation of the world
+	Flora and snow could float when they were not supposed to
+	Grass color stays the same whether you remove or add snow
+	Most blocks with updates do not work
+	Changed wool textures
+	Detailed levels of snow instead of just one layer when generating the world
+	Made sun circular like moon and added rays
+	(Hopefully fixed) TNT error that caused a crash
+	Added world time on F3 menu
+	Fixed DateTime error
+	Fixed saving error
+	Removing blocks could crash the game sometimes
+	The player will go behind flora and snow
+	Added more options to Mod Maker
+	Changed the FPS text

@@ -1,0 +1,3 @@
+Version 0.8.4:
+	Mod maker works without MSBuild (Hopefully)!
+	Added privacy policy!
