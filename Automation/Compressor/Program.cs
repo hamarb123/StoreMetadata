@@ -18,7 +18,7 @@ namespace Compressor
 			string arg0 = Path.GetFullPath(args[0]); //input directory
 			void DoDirectory(string path)
 			{
-				foreach (var item in Directory.EnumerateFiles(path, "*", SearchOption.TopDirectoryOnly).Select((x) => x[(arg0.Length + 1)..].Replace('\\', '/')).OrderBy((x) => x.GetHashCode())) //order so it is consistently ordered, the order itself doesn't matter
+				foreach (var item in Directory.EnumerateFiles(path, "*", SearchOption.TopDirectoryOnly).Select((x) => x[(arg0.Length + 1)..].Replace('\\', '/')))
 				{
 					var name = item.Split('/')[^1];
 					if (name.StartsWith("._")) continue;
@@ -27,7 +27,7 @@ namespace Compressor
 					var file = arg0 + Path.DirectorySeparatorChar + item.Replace('/', Path.DirectorySeparatorChar);
 					files.Add(new(item.ToLowerInvariant(), File.ReadAllBytes(file)));
 				}
-				foreach (var item in Directory.EnumerateDirectories(path, "*", SearchOption.TopDirectoryOnly).Select((x) => x[(arg0.Length + 1)..].Replace('\\', '/')).OrderBy((x) => x.GetHashCode())) //order so it is consistently ordered, the order itself doesn't matter
+				foreach (var item in Directory.EnumerateDirectories(path, "*", SearchOption.TopDirectoryOnly).Select((x) => x[(arg0.Length + 1)..].Replace('\\', '/')))
 				{
 					dirs.Add(item.ToLowerInvariant());
 					DoDirectory(arg0 + Path.DirectorySeparatorChar + item.Replace('/', Path.DirectorySeparatorChar));
