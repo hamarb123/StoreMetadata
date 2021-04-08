@@ -20,10 +20,11 @@
 			[
 				"windows-any",
 			],
+			os_version_major_minimum: 6,
+			os_version_minor_minimum: 1,
+			os_version_build_minimum: 7601,
 			startup_file: "2DCraft.exe",
 			startup_mode: "exe",
-			os_version_major_minimum: 7,
-			os_version_minor_minimum: 7601,
 			required_frameworks:
 			[
 				"netfx-4.6.1",
