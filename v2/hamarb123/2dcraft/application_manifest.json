@@ -4,7 +4,7 @@
 	display_name: "2DCraft: Desktop Edition",
 	icon_link: 'dropbox("oa8huwh6q2e78n6/2DCraftLogo.png")',
 	website: "https://hamarb123.github.io/2dcraft.html",
-	description: "", //todo
+	description: "2DCraft is a fun game where you can place and destroy blocks, and all sorts of things; try it out yourself! You can even make mods (mod maker comes with the game).", //todo
 	developer_id: "hamarb123",
 	release_types:
 	[
