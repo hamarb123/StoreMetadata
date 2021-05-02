@@ -1,0 +1,25 @@
+{
+	api_version: "2",
+	id: 9,
+	version_version: 0,
+	display_name: "1.0.8 (Build 400)",
+	index: 9,
+	release_type: 0,
+	game_type: 0,
+	snapshot_type: 0,
+	snapshot_data: null,
+	changelog:
+	{
+		type: "link",
+		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/store/changelogs.tar.bz2"), "1/1.0/1.0.8.txt")',
+	},
+	os_arch_specifics:
+	[
+		{
+			os_and_architectures:
+			[
+				"any-any",
+			],
+		},
+	],
+}
