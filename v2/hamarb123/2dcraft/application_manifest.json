@@ -59,7 +59,8 @@
 					{
 						condition_type: "os_minimum_version",
 						os_version_major_minimum: 10,
-						os_version_minor_minimum: 14393,
+						os_version_minor_minimum: 0,
+						os_version_build_minimum: 14393,
 					},
 				],
 			},
