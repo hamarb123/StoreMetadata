@@ -1,6 +1,6 @@
 Version 0.7: World Generation Update!
-	World generation has finally been added to the game and their are multiple types of generation.
-	Modding has been updated to work better (Play &gt; Change Mods &gt; Make A Mod).
+	World generation has finally been added to the game and there are multiple types of generation.
+	Modding has been updated to work better (Play > Change Mods > Make A Mod).
 	Doors are now fixed.
 	All the menus look 10 times better and are more readable.
 	New font for text in a world.

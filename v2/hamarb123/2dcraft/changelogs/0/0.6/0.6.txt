@@ -1,5 +1,5 @@
 Version 0.6:
-	Modding Support! Yes that's right Modding support through Options &gt; Mods &gt; Make your own mod.
+	Modding Support! Yes that's right Modding support through Options > Mods > Make your own mod.
 	We have also added the option to Import/Export Worlds and we have added more options.
 	TNT and Lighters are in the game so you can now explode things.
 	A few more blocks are also in the game too.
