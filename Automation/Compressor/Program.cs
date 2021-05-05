@@ -13,6 +13,8 @@ namespace Compressor
 	{
 		static void Main(string[] args)
 		{
+			bool notLower = false;
+			if (args.Length > 1 && args[1] == "true") notLower = true;
 			List<KeyValuePair<string, byte[]>> files = new();
 			List<string> dirs = new();
 			string arg0 = Path.GetFullPath(args[0]); //input directory
@@ -25,11 +27,15 @@ namespace Compressor
 					if (name == ".DS_Store") continue;
 					if (name == "Thumbs.db") continue;
 					var file = arg0 + Path.DirectorySeparatorChar + item.Replace('/', Path.DirectorySeparatorChar);
-					files.Add(new(item.ToLowerInvariant(), File.ReadAllBytes(file)));
+					var itemName = item;
+					if (!notLower) itemName = itemName.ToLowerInvariant();
+					files.Add(new(itemName, File.ReadAllBytes(file)));
 				}
 				foreach (var item in Directory.EnumerateDirectories(path, "*", SearchOption.TopDirectoryOnly).Select((x) => x[(arg0.Length + 1)..].Replace('\\', '/')))
 				{
-					dirs.Add(item.ToLowerInvariant());
+					var itemName = item;
+					if (!notLower) itemName = itemName.ToLowerInvariant();
+					dirs.Add(itemName);
 					DoDirectory(arg0 + Path.DirectorySeparatorChar + item.Replace('/', Path.DirectorySeparatorChar));
 				}
 			}
