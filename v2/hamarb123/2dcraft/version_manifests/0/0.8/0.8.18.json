@@ -1,9 +1,9 @@
 {
 	api_version: "2",
-	id: 102,
+	id: 96,
 	version_version: 0,
-	display_name: "0.8.24",
-	index: 102,
+	display_name: "0.8.18",
+	index: 96,
 	release_type: 0,
 	game_type: 2,
 	snapshot_type: 0,
@@ -11,7 +11,7 @@
 	changelog:
 	{
 		type: "link",
-		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs.tar.bz2"), "0/0.8/0.8.24.txt")',
+		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs.tar.bz2"), "0/0.8/0.8.18.txt")',
 	},
 	os_arch_specifics:
 	[
@@ -34,7 +34,7 @@
 	files:
 	[
 		{
-			link: 'dropbox("a02fpeswcj56yci/0.8.24.tar.bz2")',
+			link: 'dropbox("n34re1ybyoe0k8z/0.8.18.tar.bz2")',
 			unzip_subpath: "/",
 			destination: "/",
 		},
