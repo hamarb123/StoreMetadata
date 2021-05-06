@@ -1,0 +1,42 @@
+{
+	api_version: "2",
+	id: 26,
+	version_version: 0,
+	display_name: "0.5",
+	index: 26,
+	release_type: 0,
+	game_type: 1,
+	snapshot_type: 2,
+	snapshot_data: "4b",
+	changelog:
+	{
+		type: "link",
+		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs.tar.bz2"), "other/snapshot.txt")',
+	},
+	os_arch_specifics:
+	[
+		{
+			os_and_architectures:
+			[
+				"windows-any",
+			],
+			os_version_major_minimum: 6,
+			os_version_minor_minimum: 0,
+			os_version_build_minimum: 6000,
+			startup_file: "2DCraft Launcher.exe",
+			startup_mode: "exe",
+			required_frameworks:
+			[
+				"netfx-4.5.2",
+			],
+		},
+	],
+	files:
+	[
+		{
+			link: 'dropbox("hofb6l8eqj1ay39/0.5_4b.tar.bz2")',
+			unzip_subpath: "/",
+			destination: "/",
+		},
+	],
+}

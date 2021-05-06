@@ -1,0 +1,61 @@
+{
+	api_version: "2",
+	id: 46,
+	version_version: 0,
+	display_name: "0.6",
+	index: 46,
+	release_type: 0,
+	game_type: 2,
+	snapshot_type: 1,
+	snapshot_data: "1",
+	changelog:
+	{
+		type: "link",
+		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs.tar.bz2"), "other/snapshot.txt")',
+	},
+	os_arch_specifics:
+	[
+		{
+			os_and_architectures:
+			[
+				"windows-any",
+			],
+			os_version_major_minimum: 6,
+			os_version_minor_minimum: 1,
+			os_version_build_minimum: 7601,
+			startup_file: "2DCraft.exe",
+			startup_mode: "exe",
+			required_frameworks:
+			[
+				"netfx-4.6.1",
+			],
+		},
+		//standard way to specify only 64-bit support on windows (since arm64 can emulate it since 10.0.21277):
+		{
+			os_and_architectures:
+			[
+				"windows-x86",
+				"windows-arm",
+			],
+			supported: false,
+		},
+		{
+			os_and_architectures:
+			[
+				"windows-arm64",
+			],
+			os_version_major_maximum: 10,
+			os_version_minor_maximum: 0,
+			os_version_build_maximum: 21276,
+			supported: false,
+		},
+	],
+	files:
+	[
+		{
+			link: 'dropbox("szo55336ixkkiov/0.6_dev1.tar.bz2")',
+			unzip_subpath: "/",
+			destination: "/",
+		},
+	],
+}
