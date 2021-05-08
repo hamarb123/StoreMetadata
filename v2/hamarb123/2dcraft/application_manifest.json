@@ -33,7 +33,11 @@
 	default_snapshot_type: 0,
 	version_manifests:
 	[
-		//todo: 0.0.1, 0.0.1.1, 0.1, 0.2, 0.3
+		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests.tar.bz2"), "0/0.0/0.0.1.json")',
+		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests.tar.bz2"), "0/0.0/0.0.1.1.json")',
+		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests.tar.bz2"), "0/0.1/0.1.json")',
+		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests.tar.bz2"), "0/0.2/0.2.json")',
+		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests.tar.bz2"), "0/0.3/0.3.json")',
 		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests.tar.bz2"), "0/0.4/snapshots/0.4_pre1.json")',
 		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests.tar.bz2"), "0/0.4/snapshots/0.4_1a.json")',
 		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests.tar.bz2"), "0/0.4/snapshots/0.4_2a.json")',
