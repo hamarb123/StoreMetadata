@@ -1,0 +1,67 @@
+{
+	api_version: "2",
+	id: "utils",
+	display_name: "hamarb123 Utils",
+	icon_link: 'dropbox("pgndl5cw7l9xq9r/tools.png")',
+	website: "https://hamarb123.github.io/utils.html",
+	description: "The hamarb123 Utils are useful utilities that can save you time since they are all in the one place.",
+	developer_id: "hamarb123",
+	release_types:
+	[
+		"Release",
+	],
+	game_types:
+	[
+		"CSNET",
+	],
+	snapshot_types:
+	[
+		"Release",
+	],
+	app_type: "app",
+	default_release_type: null,
+	default_game_type: 0,
+	default_snapshot_type: 0,
+	version_manifests:
+	[
+		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.bz2"), "0/6.json")',
+		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.bz2"), "0/10.json")',
+		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.bz2"), "0/17.json")',
+		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.bz2"), "0/18.json")',
+		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.bz2"), "0/26.json")',
+		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.bz2"), "0/26_.json")',
+	],
+	app_buttons:
+	{
+		api_version: "2",
+		buttons:
+		[
+			{
+				button_type: "get",
+			},
+			{
+				button_type: "ms_store",
+				page: "9n1br3mptxt0",
+				conditions:
+				[
+					{
+						condition_type: "oses",
+						oses:
+						[
+							"windows",
+						],
+					},
+					{
+						condition_type: "os_minimum_version",
+						os_version_major_minimum: 10,
+						os_version_minor_minimum: 0,
+						os_version_build_minimum: 15063,
+					},
+				],
+			},
+			{
+				button_type: "dev_email",
+			},
+		],
+	},
+}

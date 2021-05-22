@@ -1,0 +1,6 @@
+Version 1.0 (Build 26):
+	Initial Microsoft Store release:
+		Removed F1 Watermark maker.
+		Removed extra exe files.
+	Text replacement version 1.1.1.
+	Gradient filler version 1.0.

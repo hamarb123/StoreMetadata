@@ -1,0 +1,3 @@
+Version 1.0.1:
+	Removed platform support for unsupported platforms.
+	Added a background color to the logo.

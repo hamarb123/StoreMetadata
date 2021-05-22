@@ -1,0 +1,8 @@
+Build 10:
+	Added the Gradient Filler.
+	F1 watermark maker (new Build 119):
+		Rebuilded (the same program).
+	Text replacement (new Version 1.1):
+		Increased character limit to 2147483647.
+	Gradient Filler (Build 4):
+		Initial release.

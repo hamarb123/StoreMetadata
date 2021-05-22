@@ -1,0 +1,18 @@
+{
+	api_version: "2",
+	id: 0,
+	version_version: 0,
+	display_name: "Latest",
+	index: 0,
+	release_type: 0,
+	game_type: 0,
+	snapshot_type: 0,
+	snapshot_data: null,
+	changelog:
+	{
+		type: "link",
+		text: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/bible_hangman_msstore/changelog.txt")',
+	},
+	os_arch_specifics: [],
+	files: [],
+}

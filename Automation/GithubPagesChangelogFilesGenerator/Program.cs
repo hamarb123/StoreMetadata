@@ -26,7 +26,7 @@ namespace GithubPagesChangelogFilesGenerator
 			}
 			else if (project == "utils")
 			{
-				Console.WriteLine("Not implemented");
+				Run(path + Path.DirectorySeparatorChar + "utils" + Path.DirectorySeparatorChar + "changelog", "v2/hamarb123/utils/changelogs", new string[0], new string[0]);
 			}
 			else Console.WriteLine("Unsupported");
 		}

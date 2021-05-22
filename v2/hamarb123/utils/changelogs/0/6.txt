@@ -1,0 +1,6 @@
+Build 6:
+	Initial release.
+	F1 watermark maker (Build 116):
+		Initial release.
+	Text replacement (Version 1.0):
+		Initial release.
