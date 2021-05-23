@@ -7,9 +7,9 @@
 	application_manifests:
 	[
 		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/application_manifest.json")',
-		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/store/application_manifest.json")',
-		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/application_manifest.json")',
 		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/bible_hangman_msstore/application_manifest.json")',
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/application_manifest.json")',
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/store/application_manifest.json")',
 	],
 	discord_url: "https://hamarb123.github.io/discord.html",
 	email_url: "mailto:hamarb123.help@gmail.com?subject=Email regarding \"hamarb123 Store\"",
