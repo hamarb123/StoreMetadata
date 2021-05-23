@@ -13,11 +13,11 @@
 		},
 		{
 			link: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/store/version_manifests.tar.bz2")',
-			normal: 2,
+			normal: 3,
 		},
 		{
 			link: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/store/changelogs.tar.bz2")',
-			normal: 2,
+			normal: 3,
 		},
 		{
 			link: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.bz2")',
