@@ -1,0 +1,9 @@
+Version 0.8.25:
+	Fix crashes related to culture / language / formatting etc.
+	Replace Discord button with donation button (link to Discord still on website)
+	Fix initial size on scaled displays
+	Fixed textures looping a pixel in some edge cases
+	Theoretically fixed the icon crash bug
+	Fixed world generation for large worlds
+	Improved performance by using better list structuring
+	Made modding theoretically possible using C# (allows the load function to be named “load” instead of “Load”)

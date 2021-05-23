@@ -3,6 +3,45 @@
 	default_version_debug: 0,
 	file_versions:
 	[
-		
+		{
+			link: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests.tar.bz2")',
+			normal: 0,
+			debug: 0,
+		},
+		{
+			link: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs.tar.bz2")',
+			normal: 0,
+			debug: 0,
+		},
+		{
+			link: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/store/version_manifests.tar.bz2")',
+			normal: 0,
+			debug: 0,
+		},
+		{
+			link: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/store/changelogs.tar.bz2")',
+			normal: 0,
+			debug: 0,
+		},
+		{
+			link: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.bz2")',
+			normal: 0,
+			debug: 0,
+		},
+		{
+			link: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/changelogs.tar.bz2")',
+			normal: 0,
+			debug: 0,
+		},
+		{
+			link: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/bible_hangman_msstore/version.json")',
+			normal: 0,
+			debug: 0,
+		},
+		{
+			link: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/bible_hangman_msstore/changelog.txt")',
+			normal: 0,
+			debug: 0,
+		},
 	],
 }
