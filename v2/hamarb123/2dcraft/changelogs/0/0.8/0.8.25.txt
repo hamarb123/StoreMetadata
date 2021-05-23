@@ -6,4 +6,4 @@ Version 0.8.25:
 	Theoretically fixed the icon crash bug
 	Fixed world generation for large worlds
 	Improved performance by using better list structuring
-	Made modding theoretically possible using C# (allows the load function to be named “load” instead of “Load”)
+	Made modding theoretically possible using C# (allows the load function to be named "load" instead of "Load")
