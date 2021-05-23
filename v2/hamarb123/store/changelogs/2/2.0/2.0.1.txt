@@ -1,0 +1,2 @@
+Version 2.0.1:
+	Fixed critical bug that stopped app from working.
