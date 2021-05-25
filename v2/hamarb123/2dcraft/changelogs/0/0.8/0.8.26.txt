@@ -1,0 +1,7 @@
+Version 0.8.26:
+	Various changes and fixes
+	TNT is more optimised
+	More edge of world fixes
+	Performance improvements
+	Modding version is increased
+	Changes to movement and scaling
