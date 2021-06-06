@@ -5,7 +5,7 @@
 	[
 		{
 			link: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests.tar.bz2")',
-			normal: 4,
+			normal: 5,
 		},
 		{
 			link: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs.tar.bz2")',
