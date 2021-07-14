@@ -1,0 +1,3 @@
+Version 2.0.4:
+	Better support for force killing sub-processes (when clicking force kill button)
+	Other fixes
