@@ -1,7 +1,7 @@
 {
 	api_version: "2",
 	id: 109,
-	version_version: 0,
+	version_version: 2,
 	display_name: "0.8.30",
 	index: 109,
 	release_type: 0,
@@ -35,7 +35,7 @@
 	files:
 	[
 		{
-			link: 'dropbox("vvs7tr6iarlkz0y/0.8.30.tar.bz2")',
+			link: 'dropbox("921rzifvs19sn38/0.8.30_inplacehotfix.tar.bz2")',
 			unzip_subpath: "/",
 			destination: "/",
 		},
