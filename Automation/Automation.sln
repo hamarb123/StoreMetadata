@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compressor", "Compressor\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubPagesChangelogFilesGenerator", "GithubPagesChangelogFilesGenerator\GithubPagesChangelogFilesGenerator.csproj", "{F97AD273-6AED-46D3-AE3D-57549F8D05C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetInstallerLocator", "DotnetInstallerLocator\DotnetInstallerLocator.csproj", "{997DF71F-D490-43C2-B19A-9AB0B9704641}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F97AD273-6AED-46D3-AE3D-57549F8D05C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F97AD273-6AED-46D3-AE3D-57549F8D05C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F97AD273-6AED-46D3-AE3D-57549F8D05C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{997DF71F-D490-43C2-B19A-9AB0B9704641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997DF71F-D490-43C2-B19A-9AB0B9704641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997DF71F-D490-43C2-B19A-9AB0B9704641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997DF71F-D490-43C2-B19A-9AB0B9704641}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

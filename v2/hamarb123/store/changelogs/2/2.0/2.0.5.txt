@@ -1,0 +1,6 @@
+Version 2.0.5:
+	Better .NET 5 downloading code for Windows for installer
+	Fix some possible registry related crashes of installer
+	Fix some dialogues of installer
+	Option to disable desktop icon (delete if already installed and the program will keep it deleted)
+	Fixes for DPI issues of installer
