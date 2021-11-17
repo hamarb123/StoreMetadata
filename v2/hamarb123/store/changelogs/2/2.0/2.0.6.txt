@@ -1,0 +1,4 @@
+Version 2.0.6:
+	Update to .NET 6
+	Better .NET 6 downloading & finding
+	Installer is now .NET Framework 4.6.1
