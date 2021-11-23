@@ -27,7 +27,7 @@
 			startup_mode: "exe",
 			required_frameworks:
 			[
-				"netfx-4.6",
+				"net4.6",
 			],
 		},
 		//standard way to specify only 64-bit support on windows (since arm64 can emulate it since 10.0.21277):

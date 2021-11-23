@@ -27,7 +27,7 @@
 			startup_mode: "exe",
 			required_frameworks:
 			[
-				"netfx-4.6.1",
+				"net4.6.1",
 			],
 		},
 	],
