@@ -1,0 +1,4 @@
+0.8.31:
+	Fixes to modding
+	Fixes for devices with screen at a different scaling factor than 100%
+	Rendering fixes
