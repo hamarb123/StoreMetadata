@@ -1,0 +1,8 @@
+Version 2.0.7:
+	Add storage manager interface
+	Better caching system (may cause versions to need to be re-downloaded / updated)
+	Cache now automatically deletes itself when it's not used (configurable)
+	Better storage management
+	Changes to .NET Resolution
+	Fixes to some process launching
+	Various changes and fixes

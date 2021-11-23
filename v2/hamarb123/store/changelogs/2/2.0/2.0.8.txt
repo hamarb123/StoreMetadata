@@ -1,0 +1,3 @@
+Version 2.0.8:
+	Fix storage counting
+	Fix Update All App's Versions button
