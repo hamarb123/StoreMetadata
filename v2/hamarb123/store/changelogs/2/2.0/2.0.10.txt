@@ -1,0 +1,6 @@
+Version 2.0.10:
+	Full arm64 & x86 support (note: to fix on arm64 machines, you may have to re-download the installer and install using that & install .NET 6 Desktop Runtime manually for arm64)
+	Full Windows 7 SP1+ support
+	High DPI mode for installer
+	Get rid of "Program Compatibility Assistant" when uninstalling sometimes
+	Other fixes and changes
