@@ -1,0 +1,4 @@
+Version 2.0.11:
+	Improve installer logic
+	Fix arm64 detection in store
+	Improve .NET detection
