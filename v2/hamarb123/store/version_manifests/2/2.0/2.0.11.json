@@ -1,9 +1,9 @@
 {
 	api_version: "2",
-	id: 28,
+	id: 29,
 	version_version: 0,
-	display_name: "2.0.10",
-	index: 28,
+	display_name: "2.0.11",
+	index: 29,
 	release_type: 0,
 	game_type: 0,
 	snapshot_type: 0,
@@ -11,7 +11,7 @@
 	changelog:
 	{
 		type: "link",
-		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/store/changelogs.tar.bz2"), "2/2.0/2.0.10.txt")',
+		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/store/changelogs.tar.bz2"), "2/2.0/2.0.11.txt")',
 	},
 	os_arch_specifics:
 	[
