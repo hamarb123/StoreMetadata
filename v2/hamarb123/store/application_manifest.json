@@ -53,6 +53,7 @@
 		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/store/version_manifests.tar.bz2"), "2/2.0/2.0.9.json")',
 		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/store/version_manifests.tar.bz2"), "2/2.0/2.0.10.json")',
 		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/store/version_manifests.tar.bz2"), "2/2.0/2.0.11.json")',
+		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/store/version_manifests.tar.bz2"), "2/2.0/2.0.12.json")',
 	],
 	app_buttons:
 	{
