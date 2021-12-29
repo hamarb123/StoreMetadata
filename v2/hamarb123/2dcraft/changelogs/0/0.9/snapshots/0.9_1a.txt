@@ -1,0 +1,9 @@
+0.9 Snapshot 1a:
+	Move to .NET 6 from .NET Framework 4.7.1
+	Some corrections to code
+	Fix for re-rendering cursor
+	Notes:
+		These snapshots are not necessarily linear, and are feature-set based
+		This snapshot is based on 0.8.32
+		This snapshot's feature set is: .NET 6
+		Mod maker is broken
