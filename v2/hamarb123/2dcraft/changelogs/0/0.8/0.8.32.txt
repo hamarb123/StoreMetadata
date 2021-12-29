@@ -1,0 +1,3 @@
+0.8.32:
+	Fix help text
+	Fix of text on older versions of Windows

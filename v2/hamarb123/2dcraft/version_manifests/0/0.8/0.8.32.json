@@ -1,0 +1,43 @@
+{
+	api_version: "2",
+	id: 111,
+	version_version: 2,
+	display_name: "0.8.32",
+	index: 111,
+	release_type: 0,
+	game_type: 2,
+	snapshot_type: 0,
+	snapshot_data: null,
+	changelog:
+	{
+		type: "link",
+		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs.tar.bz2"), "0/0.8/0.8.32.txt")',
+	},
+	os_arch_specifics:
+	[
+		{
+			os_and_architectures:
+			[
+				"windows-any",
+			],
+			os_version_major_minimum: 6,
+			os_version_minor_minimum: 1,
+			os_version_build_minimum: 7601,
+			startup_file: "2DCraftDesktopLauncher.exe",
+			startup_mode: "exe",
+			required_frameworks:
+			[
+				"net4.7.1",
+			],
+			console_output_is_tracked_processes: true,
+		},
+	],
+	files:
+	[
+		{
+			link: 'dropbox("1s7mc78hqsz05v3/0.8.32.tar.bz2")',
+			unzip_subpath: "/",
+			destination: "/",
+		},
+	],
+}
