@@ -1,0 +1,14 @@
+0.9 Snapshot 1b:
+	Improve GC code, which will improve performance
+	Fix About/Help form
+	Improve About/Help form
+	Fix Bug Report form
+	Fix Screenshot form
+	Fix Skin Selection form
+	Fix DPI issues
+	Fix Message and input box titles
+	Notes:
+		These snapshots are not necessarily linear, and are feature-set based
+		This snapshot is based on 0.8.32, 0.9 common snapshot code, and 0.9 1a
+		This snapshot's feature set is: .NET 6
+		Mod maker is broken
