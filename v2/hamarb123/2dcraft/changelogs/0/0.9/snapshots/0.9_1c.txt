@@ -1,5 +1,8 @@
-0.9 Snapshot 1b:
-	
+0.9 Snapshot 1c:
+	Major overhaul to rendering (part 1)
+	Simplify some code
+	Move some code into C#
+	Performance improved
 	Notes:
 		These snapshots are not necessarily linear, and are feature-set based
 		This snapshot is based on 0.8.32, 0.9 common snapshot code, and 0.9 1b
