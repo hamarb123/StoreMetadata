@@ -1,0 +1,84 @@
+{
+	api_version: "2",
+	id: 114,
+	version_version: 2,
+	display_name: "0.9",
+	index: 114,
+	release_type: 0,
+	game_type: 2, //todo: make new one and allow multiple "current" ones
+	snapshot_type: 2,
+	snapshot_data: "1c",
+	changelog:
+	{
+		type: "link",
+		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs.tar.bz2"), "0/0.9/snapshots/0.9_1c.txt")',
+	},
+	os_arch_specifics:
+	[
+		{
+			//todo: correct this to actual .NET 6.0 requirements & architecture
+			os_and_architectures:
+			[
+				"windows-any",
+			],
+			os_version_major_minimum: 6,
+			os_version_minor_minimum: 1,
+			os_version_build_minimum: 7601,
+			startup_file: "2DCraftDesktopLauncher.exe",
+			startup_mode: "exe",
+			required_frameworks:
+			[
+				"net6.0-windowsdesktop+osarch",
+			],
+			console_output_is_tracked_processes: true,
+		},
+	],
+	files:
+	[
+		{
+			link: 'dropbox("ku32xai55zqcvcg/0.9_1c.tar.bz2")',
+			unzip_subpath: "x86/",
+			destination: "/",
+			conditions:
+			[
+				{
+					condition_type: "architectures",
+					architectures:
+					[
+						"x86",
+					],
+				},
+			],
+		},
+		{
+			link: 'dropbox("ku32xai55zqcvcg/0.9_1c.tar.bz2")',
+			unzip_subpath: "x64/",
+			destination: "/",
+			conditions:
+			[
+				{
+					condition_type: "architectures",
+					architectures:
+					[
+						"x64",
+					],
+				},
+			],
+		},
+		{
+			link: 'dropbox("ku32xai55zqcvcg/0.9_1c.tar.bz2")',
+			unzip_subpath: "arm64/",
+			destination: "/",
+			conditions:
+			[
+				{
+					condition_type: "architectures",
+					architectures:
+					[
+						"arm64",
+					],
+				},
+			],
+		},
+	],
+}
