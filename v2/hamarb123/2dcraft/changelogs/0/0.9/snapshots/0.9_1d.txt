@@ -1,4 +1,4 @@
-0.9 Snapshot 1d:
+Version 0.9 Snapshot 1d:
 	Major overhaul to rendering (part 2)
 	Performance improved
 	Remove usage of deprecated functions

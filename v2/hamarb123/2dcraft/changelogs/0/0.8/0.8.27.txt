@@ -1,4 +1,4 @@
-0.8.27:
+Version 0.8.27:
 	Fix many crash bugs
 	Improve bug reporting
 	Improve performance

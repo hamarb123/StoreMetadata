@@ -1,4 +1,4 @@
-0.8.29:
+Version 0.8.29:
 	Internal improvements to stability and more
 	Fix standard DPIs on low-res displays
 	Re-add discord button and reorganise start menu a bit

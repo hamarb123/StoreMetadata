@@ -1,4 +1,4 @@
-0.9 Snapshot 1b:
+Version 0.9 Snapshot 1b:
 	Improve GC code, which will improve performance
 	Fix About/Help form
 	Improve About/Help form

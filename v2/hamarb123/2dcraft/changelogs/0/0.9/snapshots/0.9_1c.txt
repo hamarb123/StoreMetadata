@@ -1,4 +1,4 @@
-0.9 Snapshot 1c:
+Version 0.9 Snapshot 1c:
 	Major overhaul to rendering (part 1)
 	Simplify some code
 	Move some code into C#

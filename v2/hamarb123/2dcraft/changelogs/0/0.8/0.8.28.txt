@@ -1,4 +1,4 @@
-0.8.28:
+Version 0.8.28:
 	UWP: fix crashes relating to "Access to the path is denied"
 	Desktop: add a desktop launcher to track processes so the closing checker in hamarb123 Store is accurate
 	Improve stability of screenshots menu

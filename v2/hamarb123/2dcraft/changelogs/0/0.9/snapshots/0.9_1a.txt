@@ -1,4 +1,4 @@
-0.9 Snapshot 1a:
+Version 0.9 Snapshot 1a:
 	Move to .NET 6 from .NET Framework 4.7.1
 	Some corrections to code
 	Fix for re-rendering cursor
