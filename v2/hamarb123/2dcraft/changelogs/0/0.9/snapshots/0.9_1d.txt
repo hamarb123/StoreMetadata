@@ -1,0 +1,20 @@
+0.9 Snapshot 1d:
+	Major overhaul to rendering (part 2)
+	Performance improved
+	Remove usage of deprecated functions
+	F2 saves the screenshot to your clipboard as well
+	Fix rendering bug when player crouches
+	Splash screen is more optimised
+	Update SharpGL (by multiple years of versions)
+	Optimise Garbage Collector
+	F3 text is no longer cut off
+	F3 text now states resolution and DPI
+	Fix credits
+	Fix cursor when DPI changes
+	Screenshots & about forms works better
+	Better support for variable DPI
+	Notes:
+		These snapshots are not necessarily linear, and are feature-set based
+		This snapshot is based on 0.8.32, 0.9 common snapshot code, and 0.9 1c
+		This snapshot's feature set is: .NET 6
+		Mod maker is broken
