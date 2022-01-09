@@ -24,12 +24,12 @@
 	default_snapshot_type: 0,
 	version_manifests:
 	[
-		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.bz2"), "0/6.json")',
-		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.bz2"), "0/10.json")',
-		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.bz2"), "0/17.json")',
-		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.bz2"), "0/18.json")',
-		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.bz2"), "0/26.json")',
-		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.bz2"), "0/26_.json")',
+		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.gz"), "0/6.json")',
+		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.gz"), "0/10.json")',
+		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.gz"), "0/17.json")',
+		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.gz"), "0/18.json")',
+		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.gz"), "0/26.json")',
+		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests.tar.gz"), "0/26_.json")',
 	],
 	app_buttons:
 	{

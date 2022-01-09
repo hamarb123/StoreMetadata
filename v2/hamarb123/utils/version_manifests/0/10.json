@@ -11,7 +11,7 @@
 	changelog:
 	{
 		type: "link",
-		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/changelogs.tar.bz2"), "0/10.txt")',
+		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/changelogs.tar.gz"), "0/10.txt")',
 	},
 	os_arch_specifics:
 	[
