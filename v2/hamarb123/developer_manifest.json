@@ -15,9 +15,9 @@
 		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/hamarb123.AngleSharp.Native/library_manifest.json")',
 		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/hamarb123.AngleSharp.Native.Windows/library_manifest.json")',
 		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/hamarb123.AngleSharp.Native.WinForms/library_manifest.json")',
-		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/hamarb123.Base.tar.gz/library_manifest.json")',
-		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/hamarb123.Core.tar.gz/library_manifest.json")',
-		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/System.Management.tar.gz/library_manifest.json")',
-		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/UniversalTypeConverter.tar.gz/library_manifest.json")',
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/hamarb123.Base/library_manifest.json")',
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/hamarb123.Core/library_manifest.json")',
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/System.Management/library_manifest.json")',
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/UniversalTypeConverter/library_manifest.json")',
 	],
 }
