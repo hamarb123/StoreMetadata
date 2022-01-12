@@ -1,0 +1,25 @@
+{
+	api_version: "2",
+	id: 33,
+	version_version: 0,
+	display_name: "2.0.15",
+	index: 33,
+	release_type: 0,
+	game_type: 0,
+	snapshot_type: 0,
+	snapshot_data: null,
+	changelog:
+	{
+		type: "link",
+		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/store/changelogs.tar.gz"), "2/2.0/2.0.15.txt")',
+	},
+	os_arch_specifics:
+	[
+		{
+			os_and_architectures:
+			[
+				"any-any",
+			],
+		},
+	],
+}

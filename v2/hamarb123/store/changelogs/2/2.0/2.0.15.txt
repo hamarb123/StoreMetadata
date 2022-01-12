@@ -1,0 +1,3 @@
+Version 2.0.15:
+	Fix multiple crashes.
+	Fix multiple bugs.
