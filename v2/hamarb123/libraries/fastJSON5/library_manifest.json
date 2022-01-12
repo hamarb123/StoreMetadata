@@ -1,0 +1,11 @@
+{
+	api_version: "2",
+	name: "fastJSON5",
+	versions:
+	[
+		{
+			version: "1.0.3",
+			link: 'unzip_multipath(nuget("fastJSON5", "1.0.3"), "lib/net5.0/fastJSON5.dll")',
+		},
+	],
+}

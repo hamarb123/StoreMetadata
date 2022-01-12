@@ -1,0 +1,11 @@
+{
+	api_version: "2",
+	name: "hamarb123.AngleSharp",
+	versions:
+	[
+		{
+			version: "1.0.0-rc.9",
+			link: 'dropbox("jkq478k4zpbe63h/1.0.0-rc.9.tar.gz")',
+		},
+	],
+}

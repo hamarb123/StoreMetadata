@@ -1,0 +1,21 @@
+{
+	api_version: "2",
+	name: "System.Management",
+	versions:
+	[
+		{
+			version: "6.0.0",
+			link: 'unzip_multipath(nuget("System.Management", "6.0.0"), "runtimes/win/lib/net6.0/System.Management.dll")',
+			conditions:
+			[
+				{
+					condition_type: "oses",
+					oses:
+					[
+						"windows",
+					],
+				},
+			],
+		},
+	],
+}

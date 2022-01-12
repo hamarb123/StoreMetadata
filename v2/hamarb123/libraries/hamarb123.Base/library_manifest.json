@@ -1,0 +1,11 @@
+{
+	api_version: "2",
+	name: "hamarb123.Base",
+	versions:
+	[
+		{
+			version: "1.1.0-rc.12.5",
+			link: 'dropbox("58ui6zurujvw0ew/1.1.0-rc.12.5.tar.gz")',
+		},
+	],
+}

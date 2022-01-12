@@ -7,4 +7,17 @@
 	website: "https://hamarb123.github.io/",
 	description: "", //todo
 	discord_url: "https://hamarb123.github.io/discord.html",
+	libraries:
+	[
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/ANGLE.Natives/library_manifest.json")',
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/fastJSON5/library_manifest.json")',
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/hamarb123.AngleSharp/library_manifest.json")',
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/hamarb123.AngleSharp.Native/library_manifest.json")',
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/hamarb123.AngleSharp.Native.Windows/library_manifest.json")',
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/hamarb123.AngleSharp.Native.WinForms/library_manifest.json")',
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/hamarb123.Base.tar.gz/library_manifest.json")',
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/hamarb123.Core.tar.gz/library_manifest.json")',
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/System.Management.tar.gz/library_manifest.json")',
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/UniversalTypeConverter.tar.gz/library_manifest.json")',
+	],
 }

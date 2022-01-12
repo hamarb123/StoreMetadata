@@ -1,0 +1,11 @@
+{
+	api_version: "2",
+	name: "UniversalTypeConverter",
+	versions:
+	[
+		{
+			version: "2.0.0",
+			link: 'unzip_multipath(nuget("UniversalTypeConverter", "2.0.0"), "lib/netstandard2.0/UniversalTypeConverter.dll")',
+		},
+	],
+}
