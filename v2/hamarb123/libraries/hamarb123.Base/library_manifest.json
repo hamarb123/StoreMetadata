@@ -7,5 +7,9 @@
 			version: "1.1.0-rc.12.5",
 			link: 'dropbox("58ui6zurujvw0ew/1.1.0-rc.12.5.tar.gz")',
 		},
+		{
+			version: "1.1.0-rc.13",
+			link: 'dropbox("8z4k7gyzehf9g9o/1.1.0-rc.13.tar.gz")',
+		},
 	],
 }

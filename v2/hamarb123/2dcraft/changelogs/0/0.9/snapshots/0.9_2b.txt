@@ -1,0 +1,13 @@
+Version 0.9 Snapshot 2b:
+	Improve performance by a lot
+	Improve saving time by a lot to remove lag spikes
+	Improve loading time
+	Fix some bugs
+	Update Credits form
+	Improve wording in some spots
+	Reduce amount of crashes in languages other than English
+	Notes:
+		These snapshots are not necessarily linear, and are feature-set based
+		This snapshot is based on 0.8.32, 0.9 common snapshot code, and 0.9 2a
+		This snapshot's feature set is: .NET 6, ANGLE
+		Mod maker is broken

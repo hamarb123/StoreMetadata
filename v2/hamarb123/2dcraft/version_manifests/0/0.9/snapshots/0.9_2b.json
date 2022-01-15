@@ -1,0 +1,134 @@
+{
+	api_version: "2",
+	id: 117,
+	version_version: 2,
+	display_name: "0.9",
+	index: 117,
+	release_type: 0,
+	game_type: 2, //todo: make new one and allow multiple "current" ones
+	snapshot_type: 2,
+	snapshot_data: "2b",
+	changelog:
+	{
+		type: "link",
+		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs.tar.gz"), "0/0.9/snapshots/0.9_2b.txt")',
+	},
+	os_arch_specifics:
+	[
+		{
+			//todo: correct this to actual .NET 6.0 requirements & architecture
+			os_and_architectures:
+			[
+				"windows-any",
+			],
+			os_version_major_minimum: 6,
+			os_version_minor_minimum: 1,
+			os_version_build_minimum: 7601,
+			startup_file: "2DCraftDesktopLauncher.exe",
+			startup_mode: "exe",
+			required_frameworks:
+			[
+				"net6.0-windowsdesktop+osarch",
+			],
+			console_output_is_tracked_processes: true,
+		},
+	],
+	files:
+	[
+		{
+			link: 'dropbox("gn78ul085c1919t/0.9_2b.tar.gz")',
+			unzip_subpath: "x86/",
+			destination: "/",
+			conditions:
+			[
+				{
+					condition_type: "architectures",
+					architectures:
+					[
+						"x86",
+					],
+				},
+			],
+		},
+		{
+			link: 'dropbox("gn78ul085c1919t/0.9_2b.tar.gz")',
+			unzip_subpath: "x64/",
+			destination: "/",
+			conditions:
+			[
+				{
+					condition_type: "architectures",
+					architectures:
+					[
+						"x64",
+					],
+				},
+			],
+		},
+		{
+			link: 'dropbox("gn78ul085c1919t/0.9_2b.tar.gz")',
+			unzip_subpath: "arm64/",
+			destination: "/",
+			conditions:
+			[
+				{
+					condition_type: "architectures",
+					architectures:
+					[
+						"arm64",
+					],
+				},
+			],
+		},
+		{
+			link: 'library("hamarb123", "ANGLE.Natives", "1.0.0-preview9")',
+			unzip_subpath: "/",
+			destination: "/",
+		},
+		{
+			link: 'library("hamarb123", "fastJSON5", "1.0.3")',
+			unzip_subpath: "/",
+			destination: "/",
+		},
+		{
+			link: 'library("hamarb123", "hamarb123.AngleSharp", "1.0.0-rc.13.1")',
+			unzip_subpath: "/",
+			destination: "/",
+		},
+		{
+			link: 'library("hamarb123", "hamarb123.AngleSharp.Native", "1.0.0-rc.13.1")',
+			unzip_subpath: "/",
+			destination: "/",
+		},
+		{
+			link: 'library("hamarb123", "hamarb123.AngleSharp.Native.Windows", "1.0.0-rc.13.1")',
+			unzip_subpath: "/",
+			destination: "/",
+		},
+		{
+			link: 'library("hamarb123", "hamarb123.AngleSharp.Native.WinForms", "1.0.0-rc.13.1")',
+			unzip_subpath: "/",
+			destination: "/",
+		},
+		{
+			link: 'library("hamarb123", "hamarb123.Base", "1.1.0-rc.13")',
+			unzip_subpath: "/",
+			destination: "/",
+		},
+		{
+			link: 'library("hamarb123", "hamarb123.Core", "1.1.0-rc.13")',
+			unzip_subpath: "/",
+			destination: "/",
+		},
+		{
+			link: 'library("hamarb123", "System.Management", "6.0.0")',
+			unzip_subpath: "/",
+			destination: "/",
+		},
+		{
+			link: 'library("hamarb123", "UniversalTypeConverter", "2.0.0")',
+			unzip_subpath: "/",
+			destination: "/",
+		},
+	],
+}
