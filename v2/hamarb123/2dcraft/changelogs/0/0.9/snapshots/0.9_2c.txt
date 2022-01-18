@@ -1,0 +1,22 @@
+Version 0.9 Snapshot 2c:
+	Improve performance
+	Improve text rendering performance
+	Add a new proportional font (except in F3 where it is monospace)
+	Increase default world widths (129 -> 257, 193 -> 385, 257 -> 513, 393 -> 769, 769 -> 1025) due to better optimised code (note: there is no way to extend the world at the moment)
+	Increase biome sizes to roughly reflect world size changes (x1.5)
+	Fancier sky, sun & moon rendering
+	Change game scale (ie. blocks look smaller etc.) & rebalance other values to suit
+	Extended hotbar to 11 items
+	Extended inventory to 4 rows
+	Add Black Tulip, Lime Green Rose and Fertiliser
+	Improve rendering on high resolution displays (previously, some textures were more in the wrong spot)
+	Add more options
+	Make bars that make the rendering be 16:9 black by default, which looks better on most screens
+	Fix different colour wools stacking together
+	Fix a glitch that when a block is at (0, 0) and you can see it, that a lot of the physics completely breaks
+	Fix other bugs
+	Notes:
+		These snapshots are not necessarily linear, and are feature-set based
+		This snapshot is based on 0.8.32, 0.9 common snapshot code, and 0.9 2b
+		This snapshot's feature set is: .NET 6, ANGLE
+		Mod maker is broken
