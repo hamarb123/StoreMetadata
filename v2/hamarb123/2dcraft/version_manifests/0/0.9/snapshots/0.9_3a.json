@@ -1,17 +1,17 @@
 {
 	api_version: "2",
-	id: 116,
+	id: 119,
 	version_version: 2,
 	display_name: "0.9",
-	index: 116,
+	index: 119,
 	release_type: 0,
 	game_type: 4,
 	snapshot_type: 2,
-	snapshot_data: "2a",
+	snapshot_data: "3a",
 	changelog:
 	{
 		type: "link",
-		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs.tar.gz"), "0/0.9/snapshots/0.9_2a.txt")',
+		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs.tar.gz"), "0/0.9/snapshots/0.9_2c.txt")',
 	},
 	os_arch_specifics:
 	[
@@ -36,7 +36,7 @@
 	files:
 	[
 		{
-			link: 'dropbox("z8aptqvmbz7pq6p/0.9_2a.tar.gz")',
+			link: 'dropbox("k2ldshw9bqx82lc/0.9_3a.tar.gz")',
 			unzip_subpath: "x86/",
 			destination: "/",
 			conditions:
@@ -51,7 +51,7 @@
 			],
 		},
 		{
-			link: 'dropbox("z8aptqvmbz7pq6p/0.9_2a.tar.gz")',
+			link: 'dropbox("k2ldshw9bqx82lc/0.9_3a.tar.gz")',
 			unzip_subpath: "x64/",
 			destination: "/",
 			conditions:
@@ -66,7 +66,7 @@
 			],
 		},
 		{
-			link: 'dropbox("z8aptqvmbz7pq6p/0.9_2a.tar.gz")',
+			link: 'dropbox("k2ldshw9bqx82lc/0.9_3a.tar.gz")',
 			unzip_subpath: "arm64/",
 			destination: "/",
 			conditions:
@@ -91,32 +91,32 @@
 			destination: "/",
 		},
 		{
-			link: 'library("hamarb123", "hamarb123.AngleSharp", "1.0.0-rc.9")',
+			link: 'library("hamarb123", "hamarb123.AngleSharp", "1.0.0-rc.14")',
 			unzip_subpath: "/",
 			destination: "/",
 		},
 		{
-			link: 'library("hamarb123", "hamarb123.AngleSharp.Native", "1.0.0-rc.9.0.1")',
+			link: 'library("hamarb123", "hamarb123.AngleSharp.Native", "1.0.0-rc.13.1")',
 			unzip_subpath: "/",
 			destination: "/",
 		},
 		{
-			link: 'library("hamarb123", "hamarb123.AngleSharp.Native.Windows", "1.0.0-rc.9.0.1")',
+			link: 'library("hamarb123", "hamarb123.AngleSharp.Native.Windows", "1.0.0-rc.13.1")',
 			unzip_subpath: "/",
 			destination: "/",
 		},
 		{
-			link: 'library("hamarb123", "hamarb123.AngleSharp.Native.WinForms", "1.0.0-rc.9.0.1")',
+			link: 'library("hamarb123", "hamarb123.AngleSharp.Native.WinForms", "1.0.0-rc.13.1")',
 			unzip_subpath: "/",
 			destination: "/",
 		},
 		{
-			link: 'library("hamarb123", "hamarb123.Base", "1.1.0-rc.12.5")',
+			link: 'library("hamarb123", "hamarb123.Base", "1.1.0-rc.14.7")',
 			unzip_subpath: "/",
 			destination: "/",
 		},
 		{
-			link: 'library("hamarb123", "hamarb123.Core", "1.1.0-rc.12")',
+			link: 'library("hamarb123", "hamarb123.Core", "1.1.0-rc.14")',
 			unzip_subpath: "/",
 			destination: "/",
 		},

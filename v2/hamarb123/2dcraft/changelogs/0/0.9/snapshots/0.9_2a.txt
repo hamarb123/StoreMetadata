@@ -1,8 +1,4 @@
 Version 0.9 Snapshot 2a:
 	Replace rendering engine with Google's ANGLE
 	Update Credits form
-	Notes:
-		These snapshots are not necessarily linear, and are feature-set based
-		This snapshot is based on 0.8.32, 0.9 common snapshot code, and 0.9 1d
-		This snapshot's feature set is: .NET 6, ANGLE
-		Mod maker is broken
+	Note: Mod maker is broken

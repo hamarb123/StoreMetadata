@@ -19,6 +19,7 @@
 		"VBNET",
 		"VBNET2",
 		"CSNET",
+		"VBNET2+",
 	],
 	snapshot_types:
 	[
@@ -30,7 +31,11 @@
 	],
 	app_type: "game",
 	default_release_type: null,
-	default_game_type: 2,
+	default_game_types:
+	[
+		2,
+		4,
+	],
 	default_snapshot_type: 0,
 	version_manifests:
 	[
@@ -152,6 +157,7 @@
 		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests.tar.gz"), "0/0.9/snapshots/0.9_2a.json")',
 		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests.tar.gz"), "0/0.9/snapshots/0.9_2b.json")',
 		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests.tar.gz"), "0/0.9/snapshots/0.9_2c.json")',
+		'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests.tar.gz"), "0/0.9/snapshots/0.9_3a.json")',
 	],
 	app_buttons:
 	{

@@ -5,7 +5,7 @@
 	display_name: "0.9",
 	index: 118,
 	release_type: 0,
-	game_type: 2, //todo: make new one and allow multiple "current" ones
+	game_type: 4,
 	snapshot_type: 2,
 	snapshot_data: "2c",
 	changelog:
