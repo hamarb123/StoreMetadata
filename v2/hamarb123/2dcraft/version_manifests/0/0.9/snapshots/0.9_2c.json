@@ -11,7 +11,7 @@
 	changelog:
 	{
 		type: "link",
-		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs.tar.gz"), "0/0.9/snapshots/0.9_2c.txt")',
+		text: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs/0/0.9/snapshots/0.9_2c.txt")',
 	},
 	os_arch_specifics:
 	[
@@ -36,7 +36,7 @@
 	files:
 	[
 		{
-			link: 'dropbox("qm6exn2c9mabvi5/0.9_2c.tar.gz")',
+			link: 'dropbox("8imw42cqpiahcqa/0.9_2c.tar.gz")',
 			unzip_subpath: "x86/",
 			destination: "/",
 			conditions:
@@ -51,7 +51,7 @@
 			],
 		},
 		{
-			link: 'dropbox("qm6exn2c9mabvi5/0.9_2c.tar.gz")',
+			link: 'dropbox("8imw42cqpiahcqa/0.9_2c.tar.gz")',
 			unzip_subpath: "x64/",
 			destination: "/",
 			conditions:
@@ -66,7 +66,7 @@
 			],
 		},
 		{
-			link: 'dropbox("qm6exn2c9mabvi5/0.9_2c.tar.gz")',
+			link: 'dropbox("8imw42cqpiahcqa/0.9_2c.tar.gz")',
 			unzip_subpath: "arm64/",
 			destination: "/",
 			conditions:

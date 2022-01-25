@@ -11,7 +11,7 @@
 	changelog:
 	{
 		type: "link",
-		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs.tar.gz"), "0/0.8/0.8.15.txt")',
+		text: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs/0/0.8/0.8.15.txt")',
 	},
 	os_arch_specifics:
 	[
@@ -34,7 +34,17 @@
 	files:
 	[
 		{
-			link: 'dropbox("nvzpnuozjnz6yuw/0.8.15.tar.bz2")',
+			link: 'dropbox("18cysfd7fv5wkfx/0.8.15.tar.gz")',
+			unzip_subpath: "/",
+			destination: "/",
+		},
+		{
+			link: 'library("hamarb123", "SharpGL.Full2DCraft", "2.3.0")',
+			unzip_subpath: "/",
+			destination: "/",
+		},
+		{
+			link: 'library("hamarb123", "System.ValueTuple", "4.0.1.1")',
 			unzip_subpath: "/",
 			destination: "/",
 		},

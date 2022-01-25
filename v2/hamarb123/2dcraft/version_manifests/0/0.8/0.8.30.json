@@ -11,7 +11,7 @@
 	changelog:
 	{
 		type: "link",
-		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs.tar.gz"), "0/0.8/0.8.30.txt")',
+		text: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs/0/0.8/0.8.30.txt")',
 	},
 	os_arch_specifics:
 	[
@@ -35,7 +35,12 @@
 	files:
 	[
 		{
-			link: 'dropbox("921rzifvs19sn38/0.8.30_inplacehotfix.tar.bz2")',
+			link: 'dropbox("refk27bi1g3ylod/0.8.30_inplacehotfix.tar.gz")',
+			unzip_subpath: "/",
+			destination: "/",
+		},
+		{
+			link: 'library("hamarb123", "SharpGL.Full2DCraft", "2.3.0")',
 			unzip_subpath: "/",
 			destination: "/",
 		},

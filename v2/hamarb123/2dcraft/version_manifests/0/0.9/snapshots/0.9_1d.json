@@ -11,7 +11,7 @@
 	changelog:
 	{
 		type: "link",
-		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs.tar.gz"), "0/0.9/snapshots/0.9_1d.txt")',
+		text: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs/0/0.9/snapshots/0.9_1d.txt")',
 	},
 	os_arch_specifics:
 	[
@@ -36,7 +36,7 @@
 	files:
 	[
 		{
-			link: 'dropbox("sall8py9aijg9xt/0.9_1d.tar.bz2")',
+			link: 'dropbox("ppoxlr10y4mo5oy/0.9_1d.tar.gz")',
 			unzip_subpath: "x86/",
 			destination: "/",
 			conditions:
@@ -51,7 +51,7 @@
 			],
 		},
 		{
-			link: 'dropbox("sall8py9aijg9xt/0.9_1d.tar.bz2")',
+			link: 'dropbox("ppoxlr10y4mo5oy/0.9_1d.tar.gz")',
 			unzip_subpath: "x64/",
 			destination: "/",
 			conditions:
@@ -66,7 +66,7 @@
 			],
 		},
 		{
-			link: 'dropbox("sall8py9aijg9xt/0.9_1d.tar.bz2")',
+			link: 'dropbox("ppoxlr10y4mo5oy/0.9_1d.tar.gz")',
 			unzip_subpath: "arm64/",
 			destination: "/",
 			conditions:
@@ -79,6 +79,11 @@
 					],
 				},
 			],
+		},
+		{
+			link: 'library("hamarb123", "SharpGL.Full2DCraft", "3.1.1")',
+			unzip_subpath: "/",
+			destination: "/",
 		},
 	],
 }

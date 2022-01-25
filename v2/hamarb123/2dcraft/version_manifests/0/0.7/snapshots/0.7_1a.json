@@ -11,7 +11,7 @@
 	changelog:
 	{
 		type: "link",
-		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs.tar.gz"), "other/snapshot.txt")',
+		text: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs/other/snapshot.txt")',
 	},
 	os_arch_specifics:
 	[
@@ -34,7 +34,12 @@
 	files:
 	[
 		{
-			link: 'dropbox("jbub16ic6zkugcc/0.7_1a.tar.bz2")',
+			link: 'dropbox("iqadnvux97iuo1u/0.7_1a.tar.gz")',
+			unzip_subpath: "/",
+			destination: "/",
+		},
+		{
+			link: 'library("hamarb123", "System.ValueTuple", "4.0.1.0")',
 			unzip_subpath: "/",
 			destination: "/",
 		},

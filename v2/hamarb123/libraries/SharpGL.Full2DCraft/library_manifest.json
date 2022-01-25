@@ -1,0 +1,15 @@
+{
+	api_version: "2",
+	name: "SharpGL.Full2DCraft",
+	versions:
+	[
+		{
+			version: "2.3.0",
+			link: 'dropbox("nyjm3ma7o3otmdk/2.3.0.tar.gz")',
+		},
+		{
+			version: "3.1.1",
+			link: 'dropbox("s3qdncxu26wmrmn/3.1.1.tar.gz")',
+		},
+	],
+}

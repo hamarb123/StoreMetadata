@@ -11,7 +11,7 @@
 	changelog:
 	{
 		type: "link",
-		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs.tar.gz"), "other/0.0.0.1_0.5.7.txt")',
+		text: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs/other/0.0.0.1_0.5.7.txt")',
 	},
 	os_arch_specifics:
 	[
@@ -28,14 +28,14 @@
 			required_frameworks:
 			[
 				"net4.0",
-				"xna-4.0",
+				"xna4.0",
 			],
 		},
 	],
 	files:
 	[
 		{
-			link: 'dropbox("qd7pja13rwcool8/0.3.tar.bz2")',
+			link: 'dropbox("lrhl5u07ow1o3oq/0.3.tar.gz")',
 			unzip_subpath: "/",
 			destination: "/",
 		},

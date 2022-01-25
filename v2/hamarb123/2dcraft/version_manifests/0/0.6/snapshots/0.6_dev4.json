@@ -11,7 +11,7 @@
 	changelog:
 	{
 		type: "link",
-		text: 'unzip(github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs.tar.gz"), "other/snapshot.txt")',
+		text: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs/other/snapshot.txt")',
 	},
 	os_arch_specifics:
 	[
@@ -53,7 +53,7 @@
 	files:
 	[
 		{
-			link: 'dropbox("dhr3nvs32n2rer5/0.6_dev4.tar.bz2")',
+			link: 'dropbox("yqm43xj5x6cp22o/0.6_dev4.tar.gz")',
 			unzip_subpath: "/",
 			destination: "/",
 		},
