@@ -17,6 +17,8 @@
 		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/hamarb123.AngleSharp.Native.WinForms/library_manifest.json")',
 		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/hamarb123.Base/library_manifest.json")',
 		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/hamarb123.Core/library_manifest.json")',
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/SharpGL.Full2DCraft/library_manifest.json")',
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/System.ValueTuple/library_manifest.json")',
 		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/System.Management/library_manifest.json")',
 		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/libraries/UniversalTypeConverter/library_manifest.json")',
 	],
