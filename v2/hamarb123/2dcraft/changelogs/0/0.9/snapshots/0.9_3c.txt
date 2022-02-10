@@ -1,0 +1,19 @@
+Version 0.9 Snapshot 3c:
+	Improved chunking region file format
+	New coordinate space that makes more sense
+	New world generation average height is now 64 instead of 19
+	New world height increased to 256 from 97
+	New world widths all decreased by 1
+	Fix & improve block updating code
+	Remove old block updating options
+	Add options for when the game pauses
+	New player location system (using block coordinates)
+	Fix specific bug with world selection menu
+	Update F3 screen: remove old player location info & add new block location info
+	Fix possible infinite loops that caused crashes with block updating
+	Allow player to jump at top of world
+	Fix middle clicking
+	Fix occasional parsing errors
+	Performance improved
+	Other bugs fixed
+	Note: Mod maker is broken
