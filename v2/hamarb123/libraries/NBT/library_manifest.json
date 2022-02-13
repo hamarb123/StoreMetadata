@@ -7,5 +7,9 @@
 			version: "0.9-snapshot.3c",
 			link: 'dropbox("il6jynszmux45wl/0.9-snapshot.3c.tar.gz")',
 		},
+		{
+			version: "0.9-snapshot.3e",
+			link: 'dropbox("qy0i3f8fnsjy55k/0.9-snapshot.3e.tar.gz")',
+		},
 	],
 }
