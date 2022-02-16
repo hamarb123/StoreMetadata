@@ -1,0 +1,6 @@
+Version 0.9 Snapshot 3f:
+	Initial working implementation of chunk unloading (when unused at a distance from the player)
+	Fix the Credits menu
+	Improvements to placing doors and snow blocks
+	Other improvements
+	Note: Mod maker temporarily removed until it is reimplemented

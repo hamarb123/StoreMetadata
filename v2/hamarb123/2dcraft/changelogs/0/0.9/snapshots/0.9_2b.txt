@@ -7,3 +7,4 @@ Version 0.9 Snapshot 2b:
 	Improve wording in some spots
 	Reduce amount of crashes in languages other than English
 	Note: Mod maker is broken
+	Note: Credits is broken in this version, please view credits in either 0.9 snapshot 2a or 3f

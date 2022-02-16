@@ -16,3 +16,4 @@ Version 0.9 Snapshot 2c:
 	Fix a glitch that when a block is at (0, 0) and you can see it, that a lot of the physics completely breaks
 	Fix other bugs
 	Note: Mod maker is broken
+	Note: Credits is broken in this version, please view credits in either 0.9 snapshot 2a or 3f

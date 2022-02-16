@@ -1,6 +1,7 @@
 Version 0.9 Snapshot 3e:
-	Add workaround for https://github.com/dotnet/core/issues/7176 (stopped app running on .NET <6.0.2, only affects 0.9 snapshot 3d)
+	Add workaround for dotnet/core issue 7176 (stopped app running on .NET <6.0.2, only affects 0.9 snapshot 3d)
 	Remove Mod Maker executables
 	Add smooth sandstone block
 	Minor fix to duplicate world to stop possible crash
 	Note: Mod maker temporarily removed until it is reimplemented
+	Note: Credits is broken in this version, please view credits in either 0.9 snapshot 2a or 3f
