@@ -13,13 +13,18 @@
 		type: "link",
 		text: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs/other/0.0.0.1_0.5.7.txt")',
 	},
-	os_arch_specifics:
+	recognised_platforms:
 	[
 		{
 			os_and_architectures:
 			[
-				"windows-any",
+				"windows-x64",
 			],
+		},
+	],
+	os_arch_specifics:
+	[
+		{
 			os_version_major_minimum: 6,
 			os_version_minor_minimum: 1,
 			os_version_build_minimum: 7601,
@@ -29,25 +34,6 @@
 			[
 				"net4.6.1",
 			],
-		},
-		//standard way to specify only 64-bit support on windows (since arm64 can emulate it since 10.0.21277):
-		{
-			os_and_architectures:
-			[
-				"windows-x86",
-				"windows-arm",
-			],
-			supported: false,
-		},
-		{
-			os_and_architectures:
-			[
-				"windows-arm64",
-			],
-			os_version_major_maximum: 10,
-			os_version_minor_maximum: 0,
-			os_version_build_maximum: 21276,
-			supported: false,
 		},
 	],
 	files:

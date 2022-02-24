@@ -13,14 +13,20 @@
 		type: "link",
 		text: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs/0/0.9/snapshots/0.9_1b.txt")',
 	},
+	recognised_platforms:
+	[
+		{
+			os_and_architectures:
+			[
+				"windows-x86",
+				"windows-x64",
+				"windows-arm64",
+			],
+		},
+	],
 	os_arch_specifics:
 	[
 		{
-			//todo: correct this to actual .NET 6.0 requirements & architecture
-			os_and_architectures:
-			[
-				"windows-any",
-			],
 			os_version_major_minimum: 6,
 			os_version_minor_minimum: 1,
 			os_version_build_minimum: 7601,

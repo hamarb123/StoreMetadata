@@ -13,7 +13,7 @@
 		type: "link",
 		text: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/store/changelogs/2/2.0/2.0.9.txt")',
 	},
-	os_arch_specifics:
+	recognised_platforms:
 	[
 		{
 			os_and_architectures:

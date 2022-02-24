@@ -1,0 +1,5 @@
+Version 2.0.16:
+	Improve compatibility with emulated OS architectures.
+	Improve downloading new / updating old versions.
+	Improve order in version selector.
+	Fix some bugs.

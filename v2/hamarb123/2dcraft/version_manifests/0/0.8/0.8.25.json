@@ -13,13 +13,19 @@
 		type: "link",
 		text: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs/0/0.8/0.8.25.txt")',
 	},
-	os_arch_specifics:
+	recognised_platforms:
 	[
 		{
 			os_and_architectures:
 			[
-				"windows-any",
+				"windows-x86",
+				"windows-x64",
 			],
+		},
+	],
+	os_arch_specifics:
+	[
+		{
 			os_version_major_minimum: 6,
 			os_version_minor_minimum: 1,
 			os_version_build_minimum: 7601,
