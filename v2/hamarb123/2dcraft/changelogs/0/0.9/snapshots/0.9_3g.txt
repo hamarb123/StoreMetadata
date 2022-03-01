@@ -1,0 +1,5 @@
+Version 0.9 Snapshot 3g:
+	Fix saving files in edge cases
+	Performance improvements
+	Other changes
+	Note: Mod maker temporarily removed until it is reimplemented

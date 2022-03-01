@@ -15,5 +15,9 @@
 			version: "1.1.0-rc.14",
 			link: 'dropbox("2458ackyqzpbpaz/1.1.0-rc.14.tar.gz")',
 		},
+		{
+			version: "1.1.0-rc.18.2",
+			link: 'dropbox("4klgacoz30fdekr/1.1.0-rc.18.2.tar.gz")',
+		},
 	],
 }

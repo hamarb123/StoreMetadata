@@ -11,5 +11,9 @@
 			version: "0.9-snapshot.3e",
 			link: 'dropbox("qy0i3f8fnsjy55k/0.9-snapshot.3e.tar.gz")',
 		},
+		{
+			version: "0.9-snapshot.3g",
+			link: 'dropbox("irbh2vz3zsyopig/0.9-snapshot.3g.tar.gz")',
+		},
 	],
 }
