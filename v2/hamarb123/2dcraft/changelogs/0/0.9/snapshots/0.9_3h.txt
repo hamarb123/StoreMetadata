@@ -1,0 +1,7 @@
+Version 0.9 Snapshot 3h:
+	Fix windows not always showing until they're clicked on the taskbar
+	Correct some world migration code
+	When upgrading world, put old files into a folder rather than deleting them in case of corruption (will add option to delete this in the future)
+	Improve using F5 to navigate the menus
+	Move towards supporting Microsoft Store "2DCraft Preview"
+	Note: Mod maker temporarily removed until it is reimplemented
