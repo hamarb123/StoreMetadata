@@ -1,6 +1,6 @@
 Version 0.9 Snapshot 4a:
 	Change branding to "2DCraft Preview"
-	Save ~15% of the installation size by optimising icon files
+	Save ~20% of the installation size by optimising icon files
 	Fix one instance running code
 	Other improvements & bug fixes
 	Many internal changes
