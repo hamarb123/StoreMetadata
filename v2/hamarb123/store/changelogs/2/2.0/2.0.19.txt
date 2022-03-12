@@ -1,0 +1,2 @@
+Version 2.0.19:
+	Hotfix for 2.0.18 bug.
