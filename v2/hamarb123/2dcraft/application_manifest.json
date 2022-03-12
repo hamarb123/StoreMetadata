@@ -195,6 +195,27 @@
 				],
 			},
 			{
+				button_type: "ms_store",
+				page: "9nd0v6b1qw8d",
+				conditions:
+				[
+					{
+						condition_type: "oses",
+						oses:
+						[
+							"windows",
+						],
+					},
+					{
+						condition_type: "os_minimum_version",
+						os_version_major_minimum: 10,
+						os_version_minor_minimum: 0,
+						os_version_build_minimum: 16299,
+					},
+				],
+				text: "MS Store (Preview)",
+			},
+			{
 				button_type: "dev_email",
 			},
 		],

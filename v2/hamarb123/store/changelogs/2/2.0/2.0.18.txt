@@ -1,0 +1,2 @@
+Version 2.0.18:
+	Add workaround for .NET 6.0.2 Desktop Runtime building bug for installed applications.

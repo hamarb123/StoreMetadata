@@ -34,7 +34,7 @@
 			startup_mode: "exe",
 			required_frameworks:
 			[
-				"net6.0-windowsdesktop+osarch",
+				"net6.0.2-windowsdesktop+osarch",
 			],
 			console_output_is_tracked_processes: true,
 		},
