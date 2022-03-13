@@ -52,27 +52,6 @@
 				],
 			},
 			{
-				button_type: "ms_store",
-				page: "9n40zq4vpnrc",
-				conditions:
-				[
-					{
-						condition_type: "oses",
-						oses:
-						[
-							"windows",
-						],
-					},
-					{
-						condition_type: "os_minimum_version",
-						os_version_major_minimum: 10,
-						os_version_minor_minimum: 0,
-						os_version_build_minimum: 10586,
-					},
-				],
-				text: "MS Store (Free)",
-			},
-			{
 				button_type: "dev_email",
 			},
 		],
