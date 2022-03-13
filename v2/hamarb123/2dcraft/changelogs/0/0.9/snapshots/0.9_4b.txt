@@ -1,0 +1,5 @@
+Version 0.9 Snapshot 4b:
+	Fix crash when upgrading worlds sometimes
+	Update .NET SDK
+	Update .NET Runtime for Microsoft Store
+	Fix for arm64 platforms on the Microsoft Store
