@@ -167,6 +167,7 @@
 		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests/0/0.9/snapshots/0.9_4a.json")',
 		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests/0/0.9/snapshots/0.9_4b.json")',
 		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests/0/0.9/snapshots/0.9_4c.json")',
+		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/version_manifests/0/0.9/snapshots/0.9_4d.json")',
 	],
 	app_buttons:
 	{
