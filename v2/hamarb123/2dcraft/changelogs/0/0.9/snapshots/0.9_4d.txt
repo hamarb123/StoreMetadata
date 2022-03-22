@@ -1,4 +1,4 @@
 Version 0.9 Snapshot 4d:
-	Fix a NullReferenceException when opening / creating a world occationally
+	Fix a NullReferenceException when opening / creating a world occasionally
 	Fix mods modifying menu (mainly so mods can be removed)
 	Various bug fixes
