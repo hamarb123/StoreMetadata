@@ -1,0 +1,3 @@
+Version 0.9 Snapshot 4c:
+	Fix some bugs
+	Improve crash reporting
