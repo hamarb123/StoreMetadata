@@ -1,0 +1,4 @@
+Version 2.0.21:
+	Fix for installing .NET 6.0.2+
+	Improvements to installing required frameworks for products
+	Other fixes and improvements
