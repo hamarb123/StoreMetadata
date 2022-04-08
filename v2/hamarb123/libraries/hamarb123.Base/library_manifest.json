@@ -23,5 +23,9 @@
 			version: "1.1.0-rc.18.5",
 			link: 'dropbox("8sfims7xqlne5m2/1.1.0-rc.18.5.tar.gz")',
 		},
+		{
+			version: "1.1.0-rc.19",
+			link: 'dropbox("dw1l24x48gpxxw5/1.1.0-rc.19.tar.gz")',
+		},
 	],
 }
