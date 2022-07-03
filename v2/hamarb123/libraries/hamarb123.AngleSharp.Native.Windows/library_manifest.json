@@ -15,5 +15,9 @@
 			version: "1.0.0-rc.16",
 			link: 'dropbox("txps1teiwf3tgbj/1.0.0-rc.16.tar.gz")',
 		},
+		{
+			version: "1.0.0-rc.27",
+			link: 'dropbox("qchg70xit3s803u/1.0.0-rc.27.tar.gz")',
+		},
 	],
 }

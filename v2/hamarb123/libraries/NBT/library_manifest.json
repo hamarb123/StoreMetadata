@@ -23,5 +23,9 @@
 			version: "0.9-snapshot.4e",
 			link: 'dropbox("m7302795gmf1g0r/0.9-snapshot.4e.tar.gz")',
 		},
+		{
+			version: "0.9-snapshot.4f",
+			link: 'dropbox("imepezk52wggurz/0.9-snapshot.4f.tar.gz")',
+		},
 	],
 }

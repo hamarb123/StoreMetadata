@@ -1,0 +1,18 @@
+Version 0.9 Snapshot 4f:
+	Improved performance of whole game
+	Improved performance particularly of saving and rendering inventory, background, hotbar, and text
+	Fix bugs with invalid world names
+	Fix crash related to empty item stack
+	Allow glass above growing grass
+	Implement hovering over world folder (in new world menu) and image path (in screenshots menu) to show full path
+	Improve placing and removing when dragging mouse
+	Improve left click to select hotbar item
+	Update F3 menu with new information and simplify it
+	Fix some bugs with disposal
+	Fix crash when changing GPU on Parallels VM
+	Fix screenshots menu for DPI changes
+	Fix a menu navigation bug
+	Various internal changes
+	Various improvements
+	Various bug fixes
+	Significant allocation reduction (reduces lag spikes)

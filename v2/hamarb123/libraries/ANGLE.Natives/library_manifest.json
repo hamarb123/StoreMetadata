@@ -128,5 +128,130 @@
 				},
 			],
 		},
+		{
+			version: "1.0.0-preview24.1",
+			link: 'github_release("hamarb123/angle", "1.0.0-preview24.1", "win_x86_win7.zip")',
+			conditions:
+			[
+				{
+					condition_type: "oses",
+					oses:
+					[
+						"windows",
+					],
+				},
+				{
+					condition_type: "architectures",
+					architectures:
+					[
+						"x86",
+					],
+				},
+				{
+					condition_type: "os_maximum_version",
+					os_version_major_maximum: 6,
+					os_version_major_maximum: 2,
+				},
+			],
+		},
+		{
+			version: "1.0.0-preview24.1",
+			link: 'github_release("hamarb123/angle", "1.0.0-preview24.1", "win_x86.zip")',
+			conditions:
+			[
+				{
+					condition_type: "oses",
+					oses:
+					[
+						"windows",
+					],
+				},
+				{
+					condition_type: "architectures",
+					architectures:
+					[
+						"x86",
+					],
+				},
+				{
+					condition_type: "os_minimum_version",
+					os_version_major_minimum: 6,
+					os_version_major_minimum: 3,
+				},
+			],
+		},
+		{
+			version: "1.0.0-preview24.1",
+			link: 'github_release("hamarb123/angle", "1.0.0-preview24.1", "win_x64_win7.zip")',
+			conditions:
+			[
+				{
+					condition_type: "oses",
+					oses:
+					[
+						"windows",
+					],
+				},
+				{
+					condition_type: "architectures",
+					architectures:
+					[
+						"x64",
+					],
+				},
+				{
+					condition_type: "os_maximum_version",
+					os_version_major_maximum: 6,
+					os_version_major_maximum: 2,
+				},
+			],
+		},
+		{
+			version: "1.0.0-preview24.1",
+			link: 'github_release("hamarb123/angle", "1.0.0-preview24.1", "win_x64.zip")',
+			conditions:
+			[
+				{
+					condition_type: "oses",
+					oses:
+					[
+						"windows",
+					],
+				},
+				{
+					condition_type: "architectures",
+					architectures:
+					[
+						"x64",
+					],
+				},
+				{
+					condition_type: "os_minimum_version",
+					os_version_major_minimum: 6,
+					os_version_major_minimum: 3,
+				},
+			],
+		},
+		{
+			version: "1.0.0-preview24.1",
+			link: 'github_release("hamarb123/angle", "1.0.0-preview24.1", "win_arm64.zip")',
+			conditions:
+			[
+				{
+					condition_type: "oses",
+					oses:
+					[
+						"windows",
+					],
+				},
+				{
+					condition_type: "architectures",
+					architectures:
+					[
+						"arm64",
+					],
+				},
+			],
+		},
 	],
 }
