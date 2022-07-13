@@ -2,7 +2,9 @@ Version 0.9 Snapshot 2c:
 	Improve performance
 	Improve text rendering performance
 	Add a new proportional font (except in F3 where it is monospace)
-	Increase default world widths (129 -> 257, 193 -> 385, 257 -> 513, 393 -> 769, 769 -> 1025) due to better optimised code (note: there is no way to extend the world at the moment)
+	Increase default world widths due to better optimised code
+		129 -> 257, 193 -> 385, 257 -> 513, 393 -> 769, 769 -> 1025
+		The world cannot currently be extended to a larger size
 	Increase biome sizes to roughly reflect world size changes (x1.5)
 	Fancier sky, sun & moon rendering
 	Change game scale (ie. blocks look smaller etc.) & rebalance other values to suit

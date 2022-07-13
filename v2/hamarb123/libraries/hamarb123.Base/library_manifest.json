@@ -31,5 +31,9 @@
 			version: "1.1.0-rc.20.2",
 			link: 'dropbox("t365dhmqgbmapef/1.1.0-rc.20.2.tar.gz")',
 		},
+		{
+			version: "1.1.0-rc.22",
+			link: 'dropbox("kxhpmzfayvafe12/1.1.0-rc.22.tar.gz")',
+		},
 	],
 }
