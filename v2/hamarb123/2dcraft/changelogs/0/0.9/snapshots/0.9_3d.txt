@@ -2,7 +2,8 @@ Version 0.9 Snapshot 3d:
 	Fix issues with new options to do with pausing when mouse leaves / window is inactive
 	Improve some F3 text
 	Fix some text
-	Fix a bug with world generation where some blocks would not immediately update (eg. trees would only appear when you saw them)
+	Fix a bug with world generation where some blocks would not immediately update
+	- e.g. trees would only appear when you saw them)
 	Re-fix snow layer being behind/in front of player
 	Height differences in generated terrain will (for the most part) be at most 2 blocks, which is jumpable
 	Minor improvements to saving region files
