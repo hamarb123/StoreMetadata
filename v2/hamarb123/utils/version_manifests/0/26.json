@@ -40,7 +40,7 @@
 	files:
 	[
 		{
-			link: 'dropbox("44orzcn5seudek5/26.tar.bz2")',
+			link: 'raw("https://hamarb123.com/storage/utils/executables/26.tar.bz2")',
 			unzip_subpath: "/",
 			destination: "/",
 		},

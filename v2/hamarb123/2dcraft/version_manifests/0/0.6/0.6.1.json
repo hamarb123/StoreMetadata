@@ -39,7 +39,7 @@
 	files:
 	[
 		{
-			link: 'dropbox("wsyzixhlmr20mrp/0.6.1.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/2dcraft/executables/0.6/0.6.1.tar.gz")',
 			unzip_subpath: "/",
 			destination: "/",
 		},

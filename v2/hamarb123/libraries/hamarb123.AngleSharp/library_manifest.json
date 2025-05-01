@@ -5,23 +5,23 @@
 	[
 		{
 			version: "1.0.0-rc.9",
-			link: 'dropbox("jkq478k4zpbe63h/1.0.0-rc.9.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.AngleSharp/1.0.0-rc.9.tar.gz")',
 		},
 		{
 			version: "1.0.0-rc.13.1",
-			link: 'dropbox("7rm0x61xvtbbrao/1.0.0-rc.13.1.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.AngleSharp/1.0.0-rc.13.1.tar.gz")',
 		},
 		{
 			version: "1.0.0-rc.14",
-			link: 'dropbox("ew7kbo5fz5p6qgj/1.0.0-rc.14.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.AngleSharp/1.0.0-rc.14.tar.gz")',
 		},
 		{
 			version: "1.0.0-rc.17",
-			link: 'dropbox("5sziy2ol4egc16h/1.0.0-rc.17.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.AngleSharp/1.0.0-rc.17.tar.gz")',
 		},
 		{
 			version: "1.0.0-rc.27",
-			link: 'dropbox("ouqgfzzhg2n39oz/1.0.0-rc.27.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.AngleSharp/1.0.0-rc.27.tar.gz")',
 		},
 	],
 }

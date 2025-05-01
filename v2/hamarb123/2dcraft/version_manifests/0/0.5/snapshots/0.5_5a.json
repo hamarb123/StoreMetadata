@@ -40,7 +40,7 @@
 	files:
 	[
 		{
-			link: 'dropbox("uhbiagua0j3hw3h/0.5_5a.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/2dcraft/executables/0.5/snapshots/0.5_5a.tar.gz")',
 			unzip_subpath: "/",
 			destination: "/",
 		},

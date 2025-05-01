@@ -2,7 +2,7 @@
 	api_version: "2",
 	id: "store",
 	display_name: "hamarb123 Store",
-	icon_link: 'dropbox("zrhe2l9cf3ry06a/logo512.png")',
+	icon_link: 'raw("https://hamarb123.com/storage/store/logo.png")',
 	website: "https://hamarb123.github.io/store.html",
 	description: "The hamarb123 Store is the replacement for the Launcher of 2DCraft: Desktop Edition. It will also contain any new apps I have made. It is what you are in now.",
 	developer_id: "hamarb123",

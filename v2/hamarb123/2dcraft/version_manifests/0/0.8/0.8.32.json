@@ -41,7 +41,7 @@
 	files:
 	[
 		{
-			link: 'dropbox("hy6n1oqgevpvv2q/0.8.32.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/2dcraft/executables/0.8/0.8.32.tar.gz")',
 			unzip_subpath: "/",
 			destination: "/",
 		},

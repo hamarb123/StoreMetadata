@@ -39,7 +39,7 @@
 	files:
 	[
 		{
-			link: 'dropbox("g080algvcto0paa/0.6_dev20.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/2dcraft/executables/0.6/snapshots/0.6_dev20.tar.gz")',
 			unzip_subpath: "/",
 			destination: "/",
 		},

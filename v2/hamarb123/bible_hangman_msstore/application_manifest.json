@@ -2,7 +2,7 @@
 	api_version: "2",
 	id: "bible_hangman_msstore",
 	display_name: "Bible Hangman: Windows Store Edition",
-	icon_link: 'dropbox("6frfxpasmttod95/BibleHangmanLogo.png")',
+	icon_link: 'raw("https://hamarb123.com/storage/bible_hangman/logo.png")',
 	website: "https://www.microsoft.com/en-us/p/bible-hangman-windows-10-edition/9nblggh58w1s",
 	description: "This is a bible version of one of your all-time favourite games. There are three levels of difficulty. The words are names of people and places as found in the KJV of the bible. There are hints available if you want help based on the meaning of the name. I hope you enjoy the app. Any suggested improvements welcome. Currently working on a upgrade so it can work on windows phones (This will probably happen). Windows 8 version will probably not have any updates for a while at least. Sorry!",
 	developer_id: "hamarb123",

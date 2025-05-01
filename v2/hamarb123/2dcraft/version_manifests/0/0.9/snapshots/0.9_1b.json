@@ -42,7 +42,7 @@
 	files:
 	[
 		{
-			link: 'dropbox("5pjl948cui16rf7/0.9_1b.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/2dcraft/executables/0.9/snapshots/0.9_1b.tar.gz")',
 			unzip_subpath: "x86/",
 			destination: "/",
 			conditions:
@@ -57,7 +57,7 @@
 			],
 		},
 		{
-			link: 'dropbox("5pjl948cui16rf7/0.9_1b.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/2dcraft/executables/0.9/snapshots/0.9_1b.tar.gz")',
 			unzip_subpath: "x64/",
 			destination: "/",
 			conditions:
@@ -72,7 +72,7 @@
 			],
 		},
 		{
-			link: 'dropbox("5pjl948cui16rf7/0.9_1b.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/2dcraft/executables/0.9/snapshots/0.9_1b.tar.gz")',
 			unzip_subpath: "arm64/",
 			destination: "/",
 			conditions:

@@ -41,7 +41,7 @@
 	files:
 	[
 		{
-			link: 'dropbox("refk27bi1g3ylod/0.8.30_inplacehotfix.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/2dcraft/executables/0.8/0.8.30_inplacehotfix.tar.gz")',
 			unzip_subpath: "/",
 			destination: "/",
 		},

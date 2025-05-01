@@ -39,7 +39,7 @@
 	files:
 	[
 		{
-			link: 'dropbox("deufy2hlkl3dtjf/0.5.3.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/2dcraft/executables/0.5/0.5.3.tar.gz")',
 			unzip_subpath: "/",
 			destination: "/",
 		},

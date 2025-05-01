@@ -39,7 +39,7 @@
 	files:
 	[
 		{
-			link: 'dropbox("fvczapznn28v794/0.4_1a.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/2dcraft/executables/0.4/snapshots/0.4_1a.tar.gz")',
 			unzip_subpath: "/",
 			destination: "/",
 		},

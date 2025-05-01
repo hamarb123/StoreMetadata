@@ -5,11 +5,11 @@
 	[
 		{
 			version: "2.3.0",
-			link: 'dropbox("nyjm3ma7o3otmdk/2.3.0.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/libraries/SharpGL.Full2DCraft/2.3.0.tar.gz")',
 		},
 		{
 			version: "3.1.1",
-			link: 'dropbox("s3qdncxu26wmrmn/3.1.1.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/libraries/SharpGL.Full2DCraft/3.1.1.tar.gz")',
 		},
 	],
 }

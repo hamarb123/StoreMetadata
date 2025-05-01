@@ -5,35 +5,35 @@
 	[
 		{
 			version: "1.1.0-rc.12.5",
-			link: 'dropbox("58ui6zurujvw0ew/1.1.0-rc.12.5.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.Base/1.1.0-rc.12.5.tar.gz")',
 		},
 		{
 			version: "1.1.0-rc.13",
-			link: 'dropbox("8z4k7gyzehf9g9o/1.1.0-rc.13.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.Base/1.1.0-rc.13.tar.gz")',
 		},
 		{
 			version: "1.1.0-rc.14.7",
-			link: 'dropbox("wr8nc7fe24v4vqr/1.1.0-rc.14.7.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.Base/1.1.0-rc.14.7.tar.gz")',
 		},
 		{
 			version: "1.1.0-rc.15.1",
-			link: 'dropbox("4x0md5l3hf4ao3t/1.1.0-rc.15.1.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.Base/1.1.0-rc.15.1.tar.gz")',
 		},
 		{
 			version: "1.1.0-rc.18.5",
-			link: 'dropbox("8sfims7xqlne5m2/1.1.0-rc.18.5.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.Base/1.1.0-rc.18.5.tar.gz")',
 		},
 		{
 			version: "1.1.0-rc.19",
-			link: 'dropbox("dw1l24x48gpxxw5/1.1.0-rc.19.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.Base/1.1.0-rc.19.tar.gz")',
 		},
 		{
 			version: "1.1.0-rc.20.2",
-			link: 'dropbox("t365dhmqgbmapef/1.1.0-rc.20.2.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.Base/1.1.0-rc.20.2.tar.gz")',
 		},
 		{
 			version: "1.1.0-rc.22",
-			link: 'dropbox("kxhpmzfayvafe12/1.1.0-rc.22.tar.gz")',
+			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.Base/1.1.0-rc.22.tar.gz")',
 		},
 	],
 }
