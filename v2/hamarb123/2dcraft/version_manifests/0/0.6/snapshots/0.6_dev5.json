@@ -11,7 +11,7 @@
 	changelog:
 	{
 		type: "link",
-		text: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/2dcraft/changelogs/other/snapshot.txt")',
+		text: 'hamarb123_website("storage/store/v2/hamarb123/2dcraft/changelogs/other/snapshot.txt")',
 	},
 	recognised_platforms:
 	[
@@ -39,7 +39,7 @@
 	files:
 	[
 		{
-			link: 'raw("https://hamarb123.com/storage/2dcraft/executables/0.6/snapshots/0.6_dev5.tar.gz")',
+			link: 'hamarb123_website("storage/2dcraft/executables/0.6/snapshots/0.6_dev5.tar.gz")',
 			unzip_subpath: "/",
 			destination: "/",
 		},

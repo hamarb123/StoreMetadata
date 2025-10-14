@@ -11,7 +11,7 @@
 	changelog:
 	{
 		type: "link",
-		text: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/store/changelogs/1/1.0/1.0.10.txt")',
+		text: 'hamarb123_website("storage/store/v2/hamarb123/store/changelogs/1/1.0/1.0.10.txt")',
 	},
 	recognised_platforms:
 	[

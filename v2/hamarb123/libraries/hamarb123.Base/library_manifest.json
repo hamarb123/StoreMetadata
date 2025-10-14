@@ -5,35 +5,35 @@
 	[
 		{
 			version: "1.1.0-rc.12.5",
-			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.Base/1.1.0-rc.12.5.tar.gz")',
+			link: 'hamarb123_website("storage/libraries/hamarb123.Base/1.1.0-rc.12.5.tar.gz")',
 		},
 		{
 			version: "1.1.0-rc.13",
-			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.Base/1.1.0-rc.13.tar.gz")',
+			link: 'hamarb123_website("storage/libraries/hamarb123.Base/1.1.0-rc.13.tar.gz")',
 		},
 		{
 			version: "1.1.0-rc.14.7",
-			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.Base/1.1.0-rc.14.7.tar.gz")',
+			link: 'hamarb123_website("storage/libraries/hamarb123.Base/1.1.0-rc.14.7.tar.gz")',
 		},
 		{
 			version: "1.1.0-rc.15.1",
-			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.Base/1.1.0-rc.15.1.tar.gz")',
+			link: 'hamarb123_website("storage/libraries/hamarb123.Base/1.1.0-rc.15.1.tar.gz")',
 		},
 		{
 			version: "1.1.0-rc.18.5",
-			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.Base/1.1.0-rc.18.5.tar.gz")',
+			link: 'hamarb123_website("storage/libraries/hamarb123.Base/1.1.0-rc.18.5.tar.gz")',
 		},
 		{
 			version: "1.1.0-rc.19",
-			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.Base/1.1.0-rc.19.tar.gz")',
+			link: 'hamarb123_website("storage/libraries/hamarb123.Base/1.1.0-rc.19.tar.gz")',
 		},
 		{
 			version: "1.1.0-rc.20.2",
-			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.Base/1.1.0-rc.20.2.tar.gz")',
+			link: 'hamarb123_website("storage/libraries/hamarb123.Base/1.1.0-rc.20.2.tar.gz")',
 		},
 		{
 			version: "1.1.0-rc.22",
-			link: 'raw("https://hamarb123.com/storage/libraries/hamarb123.Base/1.1.0-rc.22.tar.gz")',
+			link: 'hamarb123_website("storage/libraries/hamarb123.Base/1.1.0-rc.22.tar.gz")',
 		},
 	],
 }

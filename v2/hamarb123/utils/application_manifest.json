@@ -2,7 +2,7 @@
 	api_version: "2",
 	id: "utils",
 	display_name: "hamarb123 Utils",
-	icon_link: 'raw("https://hamarb123.com/storage/utils/logo.png")',
+	icon_link: 'hamarb123_website("storage/utils/logo.png")',
 	website: "https://hamarb123.github.io/utils.html",
 	description: "The hamarb123 Utils are useful utilities that can save you time since they are all in the one place.",
 	developer_id: "hamarb123",
@@ -24,12 +24,12 @@
 	default_snapshot_type: 0,
 	version_manifests:
 	[
-		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests/0/6.json")',
-		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests/0/10.json")',
-		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests/0/17.json")',
-		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests/0/18.json")',
-		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests/0/26.json")',
-		'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/utils/version_manifests/0/26_.json")',
+		'hamarb123_website("storage/store/v2/hamarb123/utils/version_manifests/0/6.json")',
+		'hamarb123_website("storage/store/v2/hamarb123/utils/version_manifests/0/10.json")',
+		'hamarb123_website("storage/store/v2/hamarb123/utils/version_manifests/0/17.json")',
+		'hamarb123_website("storage/store/v2/hamarb123/utils/version_manifests/0/18.json")',
+		'hamarb123_website("storage/store/v2/hamarb123/utils/version_manifests/0/26.json")',
+		'hamarb123_website("storage/store/v2/hamarb123/utils/version_manifests/0/26_.json")',
 	],
 	app_buttons:
 	{

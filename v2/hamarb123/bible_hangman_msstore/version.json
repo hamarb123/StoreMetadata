@@ -11,7 +11,7 @@
 	changelog:
 	{
 		type: "link",
-		text: 'github("hamarb123/StoreMetadata", "main", "v2/hamarb123/bible_hangman_msstore/changelog.txt")',
+		text: 'hamarb123_website("storage/store/v2/hamarb123/bible_hangman_msstore/changelog.txt")',
 	},
 	os_arch_specifics: [],
 	files: [],

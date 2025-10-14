@@ -5,27 +5,27 @@
 	[
 		{
 			version: "0.9-snapshot.3c",
-			link: 'raw("https://hamarb123.com/storage/libraries/NBT/0.9-snapshot.3c.tar.gz")',
+			link: 'hamarb123_website("storage/libraries/NBT/0.9-snapshot.3c.tar.gz")',
 		},
 		{
 			version: "0.9-snapshot.3e",
-			link: 'raw("https://hamarb123.com/storage/libraries/NBT/0.9-snapshot.3e.tar.gz")',
+			link: 'hamarb123_website("storage/libraries/NBT/0.9-snapshot.3e.tar.gz")',
 		},
 		{
 			version: "0.9-snapshot.3g",
-			link: 'raw("https://hamarb123.com/storage/libraries/NBT/0.9-snapshot.3g.tar.gz")',
+			link: 'hamarb123_website("storage/libraries/NBT/0.9-snapshot.3g.tar.gz")',
 		},
 		{
 			version: "0.9-snapshot.3h",
-			link: 'raw("https://hamarb123.com/storage/libraries/NBT/0.9-snapshot.3h.tar.gz")',
+			link: 'hamarb123_website("storage/libraries/NBT/0.9-snapshot.3h.tar.gz")',
 		},
 		{
 			version: "0.9-snapshot.4e",
-			link: 'raw("https://hamarb123.com/storage/libraries/NBT/0.9-snapshot.4e.tar.gz")',
+			link: 'hamarb123_website("storage/libraries/NBT/0.9-snapshot.4e.tar.gz")',
 		},
 		{
 			version: "0.9-snapshot.4f",
-			link: 'raw("https://hamarb123.com/storage/libraries/NBT/0.9-snapshot.4f.tar.gz")',
+			link: 'hamarb123_website("storage/libraries/NBT/0.9-snapshot.4f.tar.gz")',
 		},
 	],
 }
