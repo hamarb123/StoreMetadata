@@ -65,6 +65,7 @@
 		'hamarb123_website("storage/store/v2/hamarb123/store/version_manifests/2/2.0/2.0.21.json")',
 		'hamarb123_website("storage/store/v2/hamarb123/store/version_manifests/2/2.0/2.0.22.json")',
 		'hamarb123_website("storage/store/v2/hamarb123/store/version_manifests/2/2.0/2.0.23.json")',
+		'hamarb123_website("storage/store/v2/hamarb123/store/version_manifests/2/2.0/2.0.24.json")',
 	],
 	app_buttons:
 	{

@@ -1,0 +1,5 @@
+Version 2.0.24:
+	Move to msi-based installer
+	Fix launch issue that was occuring
+	Move to .NET 8
+	Other updates
